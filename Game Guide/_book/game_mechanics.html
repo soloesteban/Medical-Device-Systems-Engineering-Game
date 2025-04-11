@@ -7,9 +7,8 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 <meta name="author" content="Esteban Solorzano">
-<meta name="dcterms.date" content="2025-03-01">
 
-<title>3&nbsp; Gameplay Mechanics – Critical Path: The Systems Engineer's Quest</title>
+<title>4&nbsp; Game Mechanics – Critical Path: The Systems Engineer's Quest</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -32,8 +31,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
-<link href="./game_mechanics.html" rel="next">
-<link href="./game_setup.html" rel="prev">
+<link href="./event_cards.html" rel="next">
+<link href="./gameplay.html" rel="prev">
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -83,7 +82,7 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./gameplay.html"><span class="chapter-number">3</span>&nbsp; <span class="chapter-title">Gameplay Mechanics</span></a></li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./game_mechanics.html"><span class="chapter-number">4</span>&nbsp; <span class="chapter-title">Game Mechanics</span></a></li></ol></nav>
         <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
       <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
@@ -128,13 +127,13 @@ ul.task-list li input[type="checkbox"] {
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./gameplay.html" class="sidebar-item-text sidebar-link active">
+  <a href="./gameplay.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text"><span class="chapter-number">3</span>&nbsp; <span class="chapter-title">Gameplay Mechanics</span></span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./game_mechanics.html" class="sidebar-item-text sidebar-link">
+  <a href="./game_mechanics.html" class="sidebar-item-text sidebar-link active">
  <span class="menu-text"><span class="chapter-number">4</span>&nbsp; <span class="chapter-title">Game Mechanics</span></span></a>
   </div>
 </li>
@@ -225,10 +224,11 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">Table of contents</h2>
    
   <ul>
-  <li><a href="#turn-structure" id="toc-turn-structure" class="nav-link active" data-scroll-target="#turn-structure"><span class="header-section-number">3.1</span> Turn Structure</a></li>
-  <li><a href="#game-phases" id="toc-game-phases" class="nav-link" data-scroll-target="#game-phases"><span class="header-section-number">3.2</span> Game Phases</a></li>
-  <li><a href="#advancing-to-the-next-phase" id="toc-advancing-to-the-next-phase" class="nav-link" data-scroll-target="#advancing-to-the-next-phase"><span class="header-section-number">3.3</span> Advancing to the Next Phase</a></li>
-  <li><a href="#winning-the-game" id="toc-winning-the-game" class="nav-link" data-scroll-target="#winning-the-game"><span class="header-section-number">3.4</span> Winning the Game</a></li>
+  <li><a href="#movement" id="toc-movement" class="nav-link active" data-scroll-target="#movement"><span class="header-section-number">4.1</span> Movement</a></li>
+  <li><a href="#task-resolution" id="toc-task-resolution" class="nav-link" data-scroll-target="#task-resolution"><span class="header-section-number">4.2</span> Task Resolution</a></li>
+  <li><a href="#resource-management" id="toc-resource-management" class="nav-link" data-scroll-target="#resource-management"><span class="header-section-number">4.3</span> Resource Management</a></li>
+  <li><a href="#conflict-resolution" id="toc-conflict-resolution" class="nav-link" data-scroll-target="#conflict-resolution"><span class="header-section-number">4.4</span> Conflict Resolution</a></li>
+  <li><a href="#special-mechanics" id="toc-special-mechanics" class="nav-link" data-scroll-target="#special-mechanics"><span class="header-section-number">4.5</span> Special Mechanics</a></li>
   </ul>
 </nav>
     </div>
@@ -237,7 +237,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title"><span class="chapter-number">3</span>&nbsp; <span class="chapter-title">Gameplay Mechanics</span></h1>
+<h1 class="title"><span class="chapter-number">4</span>&nbsp; <span class="chapter-title">Game Mechanics</span></h1>
 </div>
 
 
@@ -251,12 +251,6 @@ ul.task-list li input[type="checkbox"] {
           </div>
   </div>
     
-    <div>
-    <div class="quarto-title-meta-heading">Published</div>
-    <div class="quarto-title-meta-contents">
-      <p class="date">March 1, 2025</p>
-    </div>
-  </div>
   
     
   </div>
@@ -266,97 +260,50 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<section id="turn-structure" class="level2" data-number="3.1">
-<h2 data-number="3.1" class="anchored" data-anchor-id="turn-structure"><span class="header-section-number">3.1</span> Turn Structure</h2>
-<p>Each turn consists of the following steps:</p>
+<section id="movement" class="level2" data-number="4.1">
+<h2 data-number="4.1" class="anchored" data-anchor-id="movement"><span class="header-section-number">4.1</span> Movement</h2>
+<ul>
+<li>Players roll a six-sided die (D6) to determine how many spaces they move.</li>
+<li>Certain spaces allow players to choose an alternate route, offering strategic flexibility.</li>
+<li>Some spaces require players to draw an <strong>Event Card</strong>, affecting their progress.</li>
+</ul>
+</section>
+<section id="task-resolution" class="level2" data-number="4.2">
+<h2 data-number="4.2" class="anchored" data-anchor-id="task-resolution"><span class="header-section-number">4.2</span> Task Resolution</h2>
+<p>Each <strong>Task Card</strong> requires players to roll a die and apply relevant modifiers.</p>
+<ul>
+<li><strong>Success</strong>: Progress in the development phase, gain morale, or receive resource bonuses.</li>
+<li><strong>Failure</strong>: Face setbacks such as delays, resource loss, or morale reduction.</li>
+<li>Some tasks require a <strong>critical success</strong> (rolling a natural 6) to unlock bonus rewards.</li>
+</ul>
+</section>
+<section id="resource-management" class="level2" data-number="4.3">
+<h2 data-number="4.3" class="anchored" data-anchor-id="resource-management"><span class="header-section-number">4.3</span> Resource Management</h2>
+<p>Players must manage key resources to stay on track:</p>
 <ol type="1">
-<li><strong>Roll Dice &amp; Move</strong>
-<ul>
-<li>Roll a six-sided die and move the corresponding number of spaces along the board.</li>
-<li>If you land on a <strong>Task Space</strong>, draw a <strong>Task Card</strong> and resolve it.</li>
-<li>If you land on an <strong>Event Space</strong>, draw an <strong>Event Card</strong> and follow its instructions.</li>
-</ul></li>
-<li><strong>Resolve Task Cards</strong>
-<ul>
-<li>Each Task Card presents a challenge within the current game phase (e.g., “Conduct stakeholder interviews”).</li>
-<li>Roll the required dice (based on skills/resources) to determine success or failure.</li>
-<li>Success advances the player’s project; failure may result in setbacks or lost resources.</li>
-</ul></li>
-<li><strong>Manage Resources</strong>
-<ul>
-<li>Players may spend <strong>Funding Tokens</strong> to buy additional dice rolls, expertise upgrades, or event mitigations.</li>
-<li>Morale fluctuates based on game events—low morale limits progress.</li>
-</ul></li>
-<li><strong>End Turn</strong>
-<ul>
-<li>After resolving a Task or Event, the turn passes clockwise.</li>
-</ul></li>
+<li><strong>Funding Tokens</strong> – Needed for research, development, and regulatory submissions.</li>
+<li><strong>Innovation Tokens</strong> – Improve success chances on technical and regulatory challenges.</li>
+<li><strong>Morale Points</strong> – Low morale affects dice rolls and efficiency. Losing all morale results in setbacks.</li>
+<li><strong>Time Tokens</strong> – Used to reduce delays or extend deadlines in project development.</li>
 </ol>
 </section>
-<section id="game-phases" class="level2" data-number="3.2">
-<h2 data-number="3.2" class="anchored" data-anchor-id="game-phases"><span class="header-section-number">3.2</span> Game Phases</h2>
-<p>Each player must progress through the following six phases to complete their medical device:</p>
-<ol type="1">
-<li><strong>Stakeholder Needs Phase</strong>
+<section id="conflict-resolution" class="level2" data-number="4.4">
+<h2 data-number="4.4" class="anchored" data-anchor-id="conflict-resolution"><span class="header-section-number">4.4</span> Conflict Resolution</h2>
+<p>Since multiple players are competing, conflicts arise when:</p>
 <ul>
-<li>Identify and balance patient, physician, and regulatory requirements.</li>
-<li>Make trade-offs between clinical needs and manufacturability.</li>
-</ul></li>
-<li><strong>System Architecture Phase</strong>
-<ul>
-<li>Define technical specifications and functional block diagrams.</li>
-<li>Ensure integration of electrical, mechanical, and software components.</li>
-</ul></li>
-<li><strong>Requirements Writing Phase</strong>
-<ul>
-<li>Translate stakeholder input into clear, testable requirements.</li>
-<li>Align with industry standards (ISO 13485, IEC 60601, etc.).</li>
-</ul></li>
-<li><strong>Prototyping Phase</strong>
-<ul>
-<li>Build and refine initial device prototypes.</li>
-<li>Conduct design verification tests to identify flaws.</li>
-</ul></li>
-<li><strong>Verification &amp; Validation Phase</strong>
-<ul>
-<li>Execute preclinical testing, bench testing, and human factors studies.</li>
-<li>Meet all safety and regulatory standards before submission.</li>
-</ul></li>
-<li><strong>Regulatory Approval Phase</strong>
-<ul>
-<li>Submit documentation to regulatory agencies (FDA, EMA, etc.).</li>
-<li>Address regulatory questions, conduct audits, and finalize</li>
-</ul></li>
-</ol>
+<li>Players attempt to patent similar technologies.</li>
+<li>Regulatory bodies impose restrictions that delay competitors.</li>
+<li>Market competition leads to funding cuts or loss of key team members.</li>
+<li>Players can negotiate, trade resources, or form temporary alliances.</li>
+</ul>
 </section>
-<section id="advancing-to-the-next-phase" class="level2" data-number="3.3">
-<h2 data-number="3.3" class="anchored" data-anchor-id="advancing-to-the-next-phase"><span class="header-section-number">3.3</span> Advancing to the Next Phase</h2>
-<p>Once the required Task Cards for the current phase are successfully resolved, players may advance to the next phase. Follow these steps:</p>
+<section id="special-mechanics" class="level2" data-number="4.5">
+<h2 data-number="4.5" class="anchored" data-anchor-id="special-mechanics"><span class="header-section-number">4.5</span> Special Mechanics</h2>
 <ol type="1">
-<li><strong>Declare Phase Completion</strong>:
-<ul>
-<li>Announce that you have completed all tasks for the current phase.</li>
-<li>Ensure all required resources and conditions are met.</li>
-</ul></li>
-<li><strong>Reset Phase-Specific Resources</strong> (if applicable):
-<ul>
-<li>Discard any unused Task Cards from the current phase.</li>
-<li>Draw new Task Cards for the next phase.</li>
-</ul></li>
-<li><strong>Start the Next Phase</strong>:
-<ul>
-<li>Begin the next phase on your next turn.</li>
-<li>Follow the rules and challenges specific to the new phase.</li>
-</ul></li>
-<li><strong>Special Rules for Transition</strong>:
-<ul>
-<li>If an Event Card or game mechanic affects phase transitions, resolve it before starting the next phase.</li>
-</ul></li>
+<li><strong>Regulatory Challenges</strong> – Certain event cards may introduce new regulations, forcing players to revise their design or reapply for approval.</li>
+<li><strong>Chance &amp; Risk Management</strong> – Players can opt to take high-risk/high-reward decisions that can propel them forward or cause costly failures.</li>
+<li><strong>Market Disruptions</strong> – A game spinner determines random industry-wide events that may impact all players simultaneously.</li>
 </ol>
-</section>
-<section id="winning-the-game" class="level2" data-number="3.4">
-<h2 data-number="3.4" class="anchored" data-anchor-id="winning-the-game"><span class="header-section-number">3.4</span> Winning the Game</h2>
-<p>The first player to <strong>complete all six phases and gain regulatory approval</strong> successfully launches their device and wins the game!</p>
 
 
 </section>
@@ -781,13 +728,13 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </script>
 <nav class="page-navigation">
   <div class="nav-page nav-page-previous">
-      <a href="./game_setup.html" class="pagination-link" aria-label="Game Setup">
-        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-number">2</span>&nbsp; <span class="chapter-title">Game Setup</span></span>
+      <a href="./gameplay.html" class="pagination-link" aria-label="Gameplay Mechanics">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-number">3</span>&nbsp; <span class="chapter-title">Gameplay Mechanics</span></span>
       </a>          
   </div>
   <div class="nav-page nav-page-next">
-      <a href="./game_mechanics.html" class="pagination-link" aria-label="Game Mechanics">
-        <span class="nav-page-text"><span class="chapter-number">4</span>&nbsp; <span class="chapter-title">Game Mechanics</span></span> <i class="bi bi-arrow-right-short"></i>
+      <a href="./event_cards.html" class="pagination-link" aria-label="Event Cards">
+        <span class="nav-page-text"><span class="chapter-number">5</span>&nbsp; <span class="chapter-title">Event Cards</span></span> <i class="bi bi-arrow-right-short"></i>
       </a>
   </div>
 </nav>

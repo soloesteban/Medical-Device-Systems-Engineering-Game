@@ -26,12 +26,6 @@ Throughout the game, players will:
 ## Acknowledgments
 This game was inspired by real-world experiences in systems engineering and medical device development. Special thanks to playtesters, industry professionals, and game design mentors who helped refine the mechanics and make this game both educational and entertaining.
 
-Now, gather your fellow engineers, set up the game board, and prepare to embark on the ultimate systems engineering challenge. **May the best device win!**
+Now, gather your fellow engineers, set up the game board, and prepare to embark on the ultimate systems engineering challenge. **May the best medical device win!**
 
 Ignore this sentence, dummy reference to book @{knuth84}.
-
-<!--
-This is a Quarto book.
-
-To learn more about Quarto books visit <https://quarto.org/docs/books>.
--->
