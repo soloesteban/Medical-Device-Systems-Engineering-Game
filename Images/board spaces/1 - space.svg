@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Game board Space 1 -->
+
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  width="2in"
+  height="2in"
+  viewBox="0 0 2 2"
+  version="1.1"
+  xmlns:xlink="http://www.w3.org/1999/xlink">
+  
+  <!-- Background square -->
+  <rect
+    x="0"
+    y="0"
+    width="2"
+    height="2"
+    fill="gold"
+    stroke="#000000"
+    stroke-width="0.1" />
+
+  <!-- Wrapped and centered text -->
+  <text
+    x="1"
+    y="0.95"
+    text-anchor="middle"
+    font-size="0.20"
+    font-family="sans-serif"
+    fill="#000000"
+    transform="rotate(45, 1, 0.95)">
+    <tspan x="1" dy="0">Players begin</tspan>
+    <tspan x="1" dy="0.3">their journey</tspan>
+  </text>
+
+  <!-- Blue triangle in the upper-right corner -->
+  <polygon
+    points="2,0 1.4,0 2,0.6"
+    fill="green" />
+
+</svg>

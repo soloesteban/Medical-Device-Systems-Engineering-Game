@@ -1,0 +1,47 @@
+---
+#title: "Appendices"
+author: "Esteban Solorzano"
+date: "2025-03-01"
+---
+
+# Appendices
+
+This section contains supplementary materials to support gameplay, including card templates, optional mechanics, and additional clarifications.
+
+## Playing Card Templates
+
+### Task Card Template
+- Task Name: Task Title
+- Phase: Game Phase
+- Challenge: Brief Description
+- Success Roll: Dice + Skill Modifier
+- Failure Penalty: Lose Resource (Innovation, Funding, Morale, or Time), Delay Turn, etc.
+
+### Event Card Template
+- Event Name: Event Title
+- Effect: Positive or Negative Outcome (affecting Innovation, Funding, Morale, or Time)
+- Resolution: Immediate or Requires a Roll
+
+## Optional Mechanics
+
+### Solo Mode
+- Players take turns simulating competitors by rolling dice to create random AI-driven decisions.
+- AI players can disrupt funding rounds, regulatory approval, or cause unexpected setbacks.
+
+### Cooperative Mode
+- Players form a team, each specializing in a different engineering discipline.
+- Collective resource pool and shared goal of bringing one device to market together.
+
+### Advanced Regulations Expansion
+- Adds stricter compliance rules requiring more strategic planning.
+- Players must monitor evolving regulations and adapt submissions accordingly.
+
+## Extra Rule Clarifications
+- **Who Goes First?** Players with higher engineering certifications (ESEP > CSEP > ASEP > Non-certified) go first.
+- **Tie Breaker:** In the event of a tie, the player with the most remaining funding wins.
+- **Fast Track Lane Eligibility:** Players must complete specific milestone tasks to unlock this shortcut, which may require spending Innovation or Time tokens.
+
+## Printable Game Aids
+- Reference sheet summarizing key rules.
+- Quick start guide for new players.
+- Player tracking sheet for resources and morale.

@@ -1,0 +1,36 @@
+---
+#title: "Terminology"
+author: "Esteban Solorzano"
+date: "2025-03-01"
+---
+
+# Terminology
+
+This section defines key terms used throughout **Critical Path: The Systems Engineer’s Quest** to ensure clarity and consistency in gameplay.
+
+## General Game Terms
+- **Player Token**: A game piece representing a player’s progress through the phases.
+- **Task Card**: A card drawn when a player lands on a task space, requiring them to complete a specific challenge.
+- **Event Card**: A card that introduces unexpected challenges or opportunities.
+- **Chance Space**: A space where players draw a random **Chance Card**, leading to unpredictable consequences.
+- **Community Space**: A space where players draw a **Community Card**, representing industry collaborations and opportunities.
+- **Dice Roll**: Players roll a six-sided die (D6) to determine movement or resolve task outcomes.
+
+## Resource Terms
+- **Funding Token**: Represents financial resources required for research, development, and regulatory approvals.
+- **Expertise Token**: Symbolizes technical knowledge and proficiency in medical device development.
+- **Innovation Token**: A resource that enables players to develop breakthrough technologies or expedite project phases.
+- **Morale Points**: Measures team motivation; losing morale affects progress and task success rates.
+- **Time Token**: Represents available time to complete tasks before facing penalties or project failure.
+
+## Game Phase Terms
+- **Stakeholder Needs Phase**: The initial phase where players identify user needs and regulatory expectations.
+- **System Architecture Phase**: The phase where players define technical specifications and system design.
+- **Requirements Writing Phase**: The phase where players document clear, testable, and regulatory-compliant requirements.
+- **Prototyping Phase**: The stage where players develop, test, and refine early device models.
+- **Verification & Validation Phase**: The process of testing the device against requirements to ensure it meets safety and performance standards.
+- **Regulatory Approval Phase**: The final phase where players submit documentation and seek market approval.
+
+<!--
+This glossary ensures players understand critical game concepts, enhancing their strategic approach to winning the game.
+-->

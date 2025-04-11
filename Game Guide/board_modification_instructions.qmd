@@ -1,0 +1,95 @@
+---
+#title: "Instructions for Modifying a 20” x 20” Board"
+author: "Esteban Solorzano"
+---
+
+# Instructions for Modifying a 20” x 20” Board for Critical Path: The Systems Engineer’s Quest
+
+To effectively design a **game board**, you should divide it into **six key development phases**, integrate **paths for movement**, and ensure **clear sections for events and actions**. Below is a **detailed step-by-step guide** to modifying the blank board.
+
+## Define the Game Board Layout
+The board should be structured **like a Monopoly-style layout**, with **all spaces on the outer edge** and players moving **clockwise** around the board.
+
+### Board Sections and Spaces (Clockwise Path)
+| Position | Phase | Space Type | Description |
+|----------|------------|------------|-------------|
+| 1  | Stakeholder Needs  | Start Space  | Players begin their journey. |
+| 2  | Stakeholder Needs  | Task Space  | Conduct Stakeholder Interviews. |
+| 3  | Stakeholder Needs  | Event Space  | Draw an Event Card. |
+| 4  | Stakeholder Needs  | Task Space  | Meet with Key Opinion Leaders. |
+| 5  | Stakeholder Needs  | Collaboration Space  | Players may trade tokens. |
+| 6  | Stakeholder Needs  | Task Space  | Perform Market Research. |
+| 7  | Stakeholder Needs  | Fast Track Space  | Spend an Innovation Token to advance two spaces. |
+| 8  | System Architecture  | Task Space  | Define System Requirements. |
+| 9  | System Architecture  | Event Space  | Draw an Event Card. |
+| 10 | System Architecture  | Task Space  | Conduct Risk Analysis. |
+| 11 | System Architecture  | Reinvestment Space  | Spend Funding Tokens to improve technology. |
+| 12 | System Architecture  | Task Space  | Review Technical Specifications. |
+| 13 | System Architecture  | Task Space  | Identify Subsystem Requirements. |
+| 14 | Requirements Writing | Task Space  | Draft Initial Requirements. |
+| 15 | Requirements Writing | Market Challenge Space | A competitor introduces a rival product. |
+| 16 | Requirements Writing | Task Space  | Conduct Stakeholder Review. |
+| 17 | Requirements Writing | Event Space  | Draw an Event Card. |
+| 18 | Requirements Writing | Task Space  | Ensure Regulatory Compliance. |
+| 19 | Prototyping  | Task Space  | Develop First Prototype. |
+| 20 | Prototyping  | Event Space  | Draw an Event Card. |
+| 21 | Prototyping  | Task Space  | Test Prototype for Usability. |
+| 22 | Prototyping  | Collaboration Space  | Players can trade resources. |
+| 23 | Prototyping  | Task Space  | Conduct Design Iteration. |
+| 24 | Prototyping  | Fast Track Space  | Spend an Innovation Token to advance. |
+| 25 | Verification & Validation  | Task Space  | Execute Test Plan. |
+| 26 | Verification & Validation  | Event Space  | Draw an Event Card. |
+| 27 | Verification & Validation  | Task Space  | Conduct Risk Management Review. |
+| 28 | Verification & Validation  | Task Space  | Perform Biocompatibility Testing. |
+| 29 | Verification & Validation  | Market Challenge Space  | A new regulation changes testing requirements. |
+| 30 | Regulatory Approval  | Task Space  | Submit Regulatory Documentation. |
+| 31 | Regulatory Approval  | Event Space  | Draw an Event Card. |
+| 32 | Regulatory Approval  | Task Space  | Respond to Regulatory Questions. |
+| 33 | Regulatory Approval  | Audit Space  | Players must pass a compliance check. |
+| 34 | Regulatory Approval  | Final Task Space  | Obtain Market Approval. |
+| 35 | Market Launch  | Victory Space  | Players complete their product launch! |
+
+## Preparing the Board Surface
+### Materials Needed
+- Permanent markers or **vinyl stickers** for labeling.
+- **Painter’s tape** for layout adjustments.
+- **Acrylic paint or printable decals** for coloring sections.
+- **Clear sealant spray (optional)** for durability.
+
+### Step-by-Step Board Modification
+1. **Mark the Outer Border** – Use a **ruler and marker** to **outline 35 spaces** along the board’s edges.
+2. **Divide the Board into Sections**:
+   - Assign each space based on the list above.
+   - Use **painter’s tape** to ensure correct alignment before finalizing.
+3. **Add Visual Elements**:
+   - **Arrows and direction markers** to show clockwise movement.
+   - **Icons and colors** to differentiate each phase.
+
+## Special Spaces and Gameplay Enhancements
+### Fast Track Spaces:
+- Players who land here can **spend an Innovation Token** to **skip ahead** by two spaces.
+
+### Collaboration Spaces:
+- Players may **trade tokens and strategies** when landing here.
+
+### Market Challenge Spaces:
+- A competitor event occurs, requiring **a dice roll to determine impact**.
+
+### Regulatory Audit Space:
+- Players must **roll a die** to pass compliance. Failure results in losing a turn.
+
+## Coloring and Design Enhancements
+- **Green** → Stakeholder Needs
+- **Blue** → System Architecture
+- **Yellow** → Requirements Writing
+- **Orange** → Prototyping
+- **Purple** → Verification & Validation
+- **Red** → Regulatory Approval
+- **Gold** → Market Launch (Final Victory Space)
+
+Use **paint, colored markers, or printed decals** to define these zones clearly.
+
+## Final Touches
+- Test the board with prototype gameplay before finalizing.
+- Ensure all spaces are readable and visually distinct.
+- Laminate the board for added durability.

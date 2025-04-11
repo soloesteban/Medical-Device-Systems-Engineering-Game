@@ -1,0 +1,37 @@
+# Preface {.unnumbered}
+
+Welcome to **Critical Path: The Systems Engineer’s Quest**, a board game designed to immerse players in the challenges and decision-making processes of medical device development. This game is more than just entertainment—it is a strategic experience that simulates the intricate world of systems engineering in healthcare.
+
+## Why This Game?
+Medical device development is a complex, high-stakes industry requiring precision, collaboration, and strategic thinking. Engineers, designers, and regulatory specialists must navigate evolving challenges such as stakeholder demands, technical constraints, verification and validation, and regulatory approvals. 
+
+By turning these real-world challenges into a **competitive and interactive game**, we provide an engaging way for players to understand and appreciate the intricacies of product development in a highly regulated field.
+
+## Who Is This Game For?
+This game is designed for:
+
+- **Systems Engineers** – Professionals looking to explore the unique aspects of medical device development.
+- **Students & Educators** – Those seeking an engaging, hands-on method to learn about systems engineering principles.
+- **Industry Experts** – Engineers, regulatory professionals, and business leaders who want to experience a strategic simulation of their field.
+- **Game Enthusiasts** – Players who enjoy deep strategy, resource management, and competitive gameplay.
+
+## What to Expect
+Throughout the game, players will:
+
+- Balance resources such as funding, innovation, and morale to optimize efficiency.
+- Make critical decisions that impact the speed and success of prod`uct development.
+- Navigate unexpected challenges, from regulatory changes to market disruptions.
+- Compete or collaborate with other players to bring their medical device to market.
+
+## Acknowledgments
+This game was inspired by real-world experiences in systems engineering and medical device development. Special thanks to playtesters, industry professionals, and game design mentors who helped refine the mechanics and make this game both educational and entertaining.
+
+Now, gather your fellow engineers, set up the game board, and prepare to embark on the ultimate systems engineering challenge. **May the best device win!**
+
+Ignore this sentence, dummy reference to book @{knuth84}.
+
+<!--
+This is a Quarto book.
+
+To learn more about Quarto books visit <https://quarto.org/docs/books>.
+-->

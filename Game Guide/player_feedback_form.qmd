@@ -1,0 +1,61 @@
+---
+# title: "Player Feedback Form"
+author: "Esteban Solorzano"
+---
+
+# Player Feedback Form
+
+This **Player Feedback Form** is designed based on the **Failure Reporting, Analysis, and Corrective Action System (FRACAS)** methodology. The goal is to systematically collect, analyze, and implement improvements based on player experiences to enhance **Critical Path: The Systems Engineer’s Quest**.
+
+## Instructions
+Please complete this form after playing the game. Your feedback will help refine gameplay mechanics, balance, and overall enjoyment.
+
+## General Information
+| Field | Response |
+|--------|---------|
+| Player Name (Optional) | ______________________________ |
+| Game Session Date | ______________________________ |
+| Number of Players | _______ |
+| Role Played (if applicable) | ______________________________ |
+| Overall Satisfaction (1-10) | _______ |
+
+## Game Experience
+| Question | Response |
+|----------|---------|
+| How engaging was the gameplay? (1-10) | _______ |
+| How clear were the rules and instructions? (1-10) | _______ |
+| Were there any points where you felt stuck or confused? | ☐ Yes  ☐ No |
+| If yes, please describe: | ______________________________ |
+| Did you feel the game was too easy, too hard, or well-balanced? | ☐ Too Easy ☐ Too Hard ☐ Well-Balanced |
+| Which aspect of the game did you enjoy the most? | ______________________________ |
+| Which aspect of the game needs improvement? | ______________________________ |
+
+## Mechanics and Balance
+| Question | Response |
+|----------|---------|
+| Did any game mechanics feel overpowered or underpowered? | ☐ Yes  ☐ No |
+| If yes, which ones and why? | ______________________________ |
+| Were tokens and resources well-distributed throughout the game? | ☐ Yes  ☐ No |
+| If no, what adjustments would you recommend? | ______________________________ |
+| Did you find the dice roll mechanics fair and balanced? | ☐ Yes  ☐ No |
+| Would you recommend more ways to earn or spend tokens? | ☐ Yes  ☐ No |
+
+## FRACAS: Issue Tracking & Corrective Actions
+| Failure / Issue Observed | Impact on Gameplay | Suggested Fix |
+|-------------------------|-------------------|---------------|
+| ________________________ | ☐ Minor ☐ Major ☐ Critical | ________________________ |
+| ________________________ | ☐ Minor ☐ Major ☐ Critical | ________________________ |
+| ________________________ | ☐ Minor ☐ Major ☐ Critical | ________________________ |
+
+## Additional Comments
+____________________________________________________  
+____________________________________________________  
+____________________________________________________  
+
+## Would You Play Again?
+| Question | Response |
+|----------|---------|
+| Would you play this game again? | ☐ Yes ☐ No ☐ Maybe |
+| Would you recommend this game to others? | ☐ Yes ☐ No ☐ Maybe |
+
+**Thank you for your feedback!** Your input will help make **Critical Path: The Systems Engineer’s Quest** a better experience for all players.

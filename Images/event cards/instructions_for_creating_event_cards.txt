@@ -1,0 +1,13 @@
+Create SVG image code for all the event cards defined in the event_cards.qmd file. Follow these steps:
+
+1. Put the content of the cards into a rounded rectangle of 85mm (height) by 60mm (width).
+2. Create an individual text file for each SVG code for each card.
+3. Use the event card template.txt file as the base template for the cards.
+4. Ensure the text of the card fits into each card, wrapping text as necessary.
+5. The card title text should be 3 words or less per line.
+6. The rest of the content should be 4 words or less per line.
+7. Lower the text of the effect closer to the bottom of the card.
+8. Save the files in the folder called "event cards" that exists in the workspace.
+9. The file names of each card should include the card ID (e.g., EV001_FDA_Fast_Track_Designation.txt).
+
+These instructions can be reused whenever new event cards need to be created.

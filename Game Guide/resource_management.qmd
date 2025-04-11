@@ -1,0 +1,40 @@
+---
+#title: "Resource Management Rules"
+author: "Esteban Solorzano"
+---
+
+# Resource Management Rules
+
+To ensure a balanced gameplay experience, **Critical Path: The Systems Engineer’s Quest** limits how players acquire, use, and trade resources. This section outlines the rules governing **Innovation Tokens, Funding Tokens, Morale, and Time Tokens**.
+
+## How Players Gain Tokens
+
+| Method | Token Type | Limitations |
+|--------|-----------|-------------|
+| Completing Key Tasks | Innovation Tokens, Morale | Players can earn a **maximum of 2 tokens per phase**. |
+| Certain Event Cards | Funding Tokens, Morale | Capped at **1 token per event effect** to prevent overflow. |
+| Successful Phase Transitions | Innovation Tokens, Funding Tokens | Players receive **1 predefined token per major phase transition**. |
+| Trading with Other Players | Any Resource Token | Players may trade, but **each exchange must be 2:1 (e.g., 2 Innovation Tokens for 1 Funding Token)**. |
+
+## Spending Tokens
+- **Innovation Tokens** – Used to re-roll task failures or unlock special shortcuts (e.g., bypassing verification delays).
+- **Funding Tokens** – Required for high-cost actions (e.g., regulatory submissions, phase transitions).
+- **Morale** – Boosts efficiency; if morale drops to 0, the player **loses a turn until morale is restored**.
+- **Time Tokens** – Used to reduce delays or extend deadlines in project development.
+
+## Limits on Token Accumulation
+- Players may hold **a maximum of 3 of any token type at a time**.
+- Excess tokens must be **spent or exchanged before acquiring new ones**.
+- Some high-value actions **require specific token types**, ensuring steady use of resources.
+
+## Phase-Based Token Refresh
+- At the start of each new phase, **all players receive 1 free token** (type depends on the phase):
+  - **System Architecture Phase** → 1 Innovation Token
+  - **Prototyping Phase** → 1 Innovation Token
+  - **Verification & Validation Phase** → 1 Morale Token
+  - **Regulatory Approval Phase** → 1 Funding Token
+
+## Trading and Negotiation Rules
+- Players may **exchange tokens** during their turn.
+- Trades must follow a **minimum 2:1 ratio** (e.g., trading 2 Innovation Tokens to gain 1 Funding Token).
+- Players **cannot gift tokens**—every trade must be a fair exchange.

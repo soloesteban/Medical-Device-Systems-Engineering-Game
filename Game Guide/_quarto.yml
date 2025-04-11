@@ -1,0 +1,48 @@
+project:
+  type: book
+
+book:
+  title: "Critical Path: The Systems Engineer's Quest"
+  author:
+      - name: "Esteban Solorzano"
+      - email: esteban.solorzano@gmail.com
+      - affiliation:
+      - name: Boston Scientific
+        city: Arden Hills
+        state: MM
+        url: www.bostonscientific.com
+  date: "4/10/2025"
+  chapters:
+    - index.qmd
+    - game_overview.qmd
+    - game_setup.qmd
+    - gameplay.qmd
+    - game_mechanics.qmd
+    - event_cards.qmd
+    - task_cards.qmd
+    - board_layout.qmd
+    - terminology.qmd
+    - strategy_tips.qmd
+    - design_notes.qmd
+    - resource_management.qmd    
+    - references.qmd
+
+  appendices:
+    - appendices.qmd
+    - board_modification_instructions.qmd
+    - player_feedback_form.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme:
+      - cosmo
+  pdf:
+    documentclass: scrreprt
+    fontsize: 10pt
+    geometry: "margin=0.5in, bottom=1in"
+    header-includes:
+      - \usepackage{fancyhdr}
+      - \pagestyle{fancy}
+      - \fancyfoot[C]{\thepage}

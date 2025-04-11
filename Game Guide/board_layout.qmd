@@ -1,0 +1,52 @@
+---
+#title: "Board Layout"
+author: "Esteban Solorzano"
+date: "2025-03-01"
+---
+
+# Board Layout
+
+The **Critical Path** game board visually represents the journey of bringing a medical device to market. It consists of six primary phases, each containing various task spaces and event spaces. Players progress through these phases in sequence, overcoming challenges along the way.
+
+## Board Structure
+
+The game board is divided into:
+1. **Stakeholder Needs Phase (Green Section)**
+   - Focuses on gathering user requirements and stakeholder alignment.
+   - Includes spaces for patient interviews, physician consultations, and regulatory meetings.
+   
+2. **System Architecture Phase (Blue Section)**
+   - Players define system components, interfaces, and risk analysis.
+   - Spaces for requirement definition, technical analysis, and subsystem integration.
+   
+3. **Requirements Writing Phase (Yellow Section)**
+   - Writing clear, verifiable, and regulatory-compliant requirements.
+   - Spaces for drafting user needs, system requirements, and validation plans.
+   
+4. **Prototyping Phase (Orange Section)**
+   - Developing and refining a prototype based on defined requirements.
+   - Spaces for prototyping, iteration, and user feedback collection.
+   
+5. **Verification & Validation Phase (Purple Section)**
+   - Players conduct testing, analyze results, and finalize product design.
+   - Spaces for test execution, risk mitigation, and final design approval.
+   
+6. **Regulatory Approval Phase (Red Section)**
+   - Players prepare regulatory submissions and address compliance issues.
+   - Spaces for documentation submission, regulatory review, and inspection.
+
+## Special Spaces
+- **Chance Spaces**: Players draw from the Chance Deck, introducing random industry events.
+- **Community Spaces**: Players draw from the Community Deck, representing external collaboration and business opportunities.
+- **Fast Track Lane**: A shortcut available only if players meet specific requirements (e.g., FDA Fast Track approval).
+
+## Movement Rules
+- Players move by rolling a **six-sided die (D6)**.
+- Some paths have decision nodes where players can take alternate routes, introducing strategic choices.
+- Landing on **Event Spaces** forces players to draw an **Event Card** and resolve it immediately.
+
+### Example Layout (Conceptual)
+
+Start → Stakeholder Needs → System Architecture → Requirements Writing → Prototyping → Verification & Validation → Regulatory Approval → Market Launch
+
+Players progress along this path, completing challenges in each phase until they reach the final goal: **Market Launch**.

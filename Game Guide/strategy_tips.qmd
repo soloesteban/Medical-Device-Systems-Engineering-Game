@@ -1,0 +1,42 @@
+---
+#title: "Strategy Tips"
+author: "Esteban Solorzano"
+date: "2025-03-01"
+---
+
+# Strategy Tips
+
+To succeed in **Critical Path: The Systems Engineer’s Quest**, players must balance risk, resource management, and strategic decision-making. Here are some essential strategies to help you win the game.
+
+## Prioritize Key Resources
+- **Funding Tokens**: Allocate funds wisely to avoid financial setbacks in later phases.
+<!-- **Expertise Tokens**: Invest in technical and regulatory expertise early to improve success rates in complex challenges.-->
+- **Innovation Tokens**: Use these sparingly but effectively—breakthroughs can accelerate your progress.
+- **Morale Points**: Keep morale high; low morale impacts dice rolls and task outcomes.
+
+## Plan Your Path Efficiently
+- **Use Alternate Routes**: Some board spaces allow for different paths—take advantage of shorter or less risky routes.
+- **Fast Track Lane**: If possible, qualify for the Fast Track to bypass difficult phases.
+- **Avoid Delays**: Losing time tokens can prevent you from keeping up with competitors.
+
+## Manage Risk and Adapt to Events
+- **Mitigate Negative Event Cards**: Keep extra resources handy to counteract setbacks.
+- **Leverage Positive Events**: Certain cards offer bonuses—be ready to maximize their effects.
+- **Balance High-Risk Decisions**: Some challenges offer big rewards but come with high failure rates—assess your chances before taking the risk.
+
+## Master Task Resolution
+- **Optimize Dice Rolls**: Certain skills improve success rates; investing in expertise early can pay off.
+- **Look for Bonus Rewards**: Some tasks provide additional benefits if completed successfully—choose them wisely.
+- **Don’t Rush Prototyping**: A well-tested prototype can prevent costly rework later.
+
+## Consider Player Interactions
+- **Trade Strategically**: Exchange expertise and resources with competitors when beneficial.
+- **Block Opponents**: Delay others by securing patents, outbidding funding, or leveraging event outcomes.
+- **Negotiate Alliances**: Temporary alliances can help overcome shared obstacles, but be ready to compete in the final stretch.
+
+## Stay Flexible
+- **Monitor Competitor Progress**: Adjust your strategy based on what other players are doing.
+- **Adapt to Changing Conditions**: Regulatory updates and market shifts can affect your approach—stay nimble.
+- **Don’t Hoard Resources**: Spend wisely, but avoid over-saving—unused resources don’t win games!
+
+<!--By following these strategies, you can increase your chances of successfully bringing your medical device to market and securing victory!-->

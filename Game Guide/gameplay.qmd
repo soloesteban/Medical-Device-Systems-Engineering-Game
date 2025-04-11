@@ -1,0 +1,76 @@
+---
+#title: "Gameplay Mechanics"
+author: "Esteban Solorzano"
+date: "2025-03-01"
+---
+
+# Gameplay Mechanics
+
+## Turn Structure
+Each turn consists of the following steps:
+
+1. **Roll Dice & Move**
+   - Roll a six-sided die and move the corresponding number of spaces along the board.
+   - If you land on a **Task Space**, draw a **Task Card** and resolve it.
+   - If you land on an **Event Space**, draw an **Event Card** and follow its instructions.
+   
+2. **Resolve Task Cards**
+   - Each Task Card presents a challenge within the current game phase (e.g., "Conduct stakeholder interviews").
+   - Roll the required dice (based on skills/resources) to determine success or failure.
+   - Success advances the player’s project; failure may result in setbacks or lost resources.
+
+3. **Manage Resources**
+   - Players may spend **Funding Tokens** to buy additional dice rolls, upgrades, or event mitigations.
+   - Morale fluctuates based on game events—low morale limits progress.
+
+4. **End Turn**
+   - After resolving a Task or Event, the turn passes clockwise.
+
+## Game Phases
+Each player must progress through the following six phases to complete their medical device:
+
+1. **Stakeholder Needs Phase**
+   - Identify and balance patient, physician, and regulatory requirements.
+   - Make trade-offs between clinical needs and manufacturability.
+   
+2. **System Architecture Phase**
+   - Define technical specifications and functional block diagrams.
+   - Ensure integration of electrical, mechanical, and software components.
+   
+3. **Requirements Writing Phase**
+   - Translate stakeholder input into clear, testable requirements.
+   - Align with industry standards (ISO 13485, IEC 60601, etc.).
+   
+4. **Prototyping Phase**
+   - Build and refine initial device prototypes.
+   - Conduct design verification tests to identify flaws.
+   
+5. **Verification & Validation Phase**
+   - Execute preclinical testing, bench testing, and human factors studies.
+   - Meet all safety and regulatory standards before submission.
+   
+6. **Regulatory Approval Phase**
+   - Submit documentation to regulatory agencies (FDA, EMA, etc.).
+   - Address regulatory questions, conduct audits, and finalize
+
+## Advancing to the Next Phase
+
+Once the required Task Cards for the current phase are successfully resolved, players may advance to the next phase. Follow these steps:
+
+1. **Declare Phase Completion**:
+   - Announce that you have completed all tasks for the current phase.
+   - Ensure all required resources and conditions are met.
+
+2. **Reset Phase-Specific Resources** (if applicable):
+   - Discard any unused Task Cards from the current phase.
+   - Draw new Task Cards for the next phase.
+
+3. **Start the Next Phase**:
+   - Begin the next phase on your next turn.
+   - Follow the rules and challenges specific to the new phase.
+
+4. **Special Rules for Transition**:
+   - If an Event Card or game mechanic affects phase transitions, resolve it before starting the next phase.
+
+## Winning the Game
+The first player to **complete all six phases and gain regulatory approval** successfully launches their device and wins the game!

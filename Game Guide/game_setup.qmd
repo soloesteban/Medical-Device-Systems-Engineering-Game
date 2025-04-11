@@ -1,0 +1,41 @@
+---
+#title: "Game Setup"
+author: "Esteban Solorzano"
+date: "2025-03-01"
+---
+
+# Game Setup
+
+## Components
+Before starting, ensure you have the following components:
+
+- **Game Board**: A modular board depicting the six phases of development.
+- **Player Tokens**: Representing each systems engineer.
+- **Task Cards**: Challenges and tasks tied to each game phase.
+- **Event Cards**: Unpredictable industry events that influence gameplay.
+- **Dice**: Used for movement, task resolution, and random events.
+- **Resource Tokens**: Representing funding, innovation, morale, and time.
+- **Player Dashboards**: Used to track progress, resources, and morale.
+- **Game Spinner**: Introducing probability-based scenarios.
+- **Sand Timer**: Adding real-time pressure for decision-making challenges.
+
+## Player Setup
+1. **Choose a Player Token**: Each player selects a color/figure representing their systems engineer.
+2. **Distribute Starting Resources**:
+   - Each player begins with:
+     - 5 Funding Tokens
+     - 3 Innovation Tokens
+     - 5 Morale Points
+     - 2 Time Tokens
+3. **Shuffle Cards**:
+   - Shuffle Task Cards and place them face down in their designated areas.
+   - Shuffle Event Cards into a separate deck.
+4. **Place Player Tokens on the Board**:
+   - All players start in the **Stakeholder Needs** phase.
+5. **Determine Turn Order**:
+   - Players roll a die; highest roll goes first. In case of a tie, the player with the highest engineering certification (ESEP > CSEP > ASEP > Non-certified) goes first.
+
+## Starting the Game
+- The first player rolls the dice to begin movement.
+- Players follow the board path, drawing **Task Cards** as they enter new phases.
+- The first player to complete all six phases and gain regulatory approval wins!

@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="60mm" height="85mm" viewBox="0 0 60 85">
+  <rect x="1" y="1" width="58" height="83" rx="5" ry="5" fill="white" stroke="black" stroke-width="0.5"/>
+  <text x="50%" y="10%" text-anchor="middle" font-family="Arial" font-size="5" font-weight="bold">Clinical Trial</text>
+  <text x="50%" y="15%" text-anchor="middle" font-family="Arial" font-size="5" font-weight="bold">Failure</text>
+  <text x="5%" y="25%" font-family="Arial" font-size="4" text-anchor="start" width="90%">
+    The clinical trial did
+  </text>
+  <text x="5%" y="31%" font-family="Arial" font-size="4" text-anchor="start" width="90%">
+    not meet expected
+  </text>
+  <text x="5%" y="37%" font-family="Arial" font-size="4" text-anchor="start" width="90%">
+    outcomes.
+  </text>
+  <text x="5%" y="65%" font-family="Arial" font-size="4" text-anchor="start" width="90%">
+    <tspan font-weight="bold">Effect:</tspan> Lose 2 Morale
+  </text>
+  <text x="5%" y="71%" font-family="Arial" font-size="4" text-anchor="start" width="90%">
+    and return to the
+  </text>
+  <text x="5%" y="77%" font-family="Arial" font-size="4" text-anchor="start" width="90%">
+    Prototyping Phase.
+  </text>
+  <text x="5%" y="95%" font-family="Arial" font-size="4" text-anchor="start">
+    <tspan font-weight="bold">ID:</tspan> EV008
+  </text>
+</svg>

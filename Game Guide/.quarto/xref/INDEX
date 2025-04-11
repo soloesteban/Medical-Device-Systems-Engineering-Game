@@ -1,0 +1,56 @@
+{
+  "index.qmd": {
+    "index.html": "7f3eacc8"
+  },
+  "intro.qmd": {
+    "intro.html": "0970843c"
+  },
+  "summary.qmd": {
+    "summary.html": "0316822e"
+  },
+  "references.qmd": {
+    "references.html": "299989cc"
+  },
+  "game_overview.qmd": {
+    "game_overview.html": "e54351d7"
+  },
+  "game_setup.qmd": {
+    "game_setup.html": "c94975b1"
+  },
+  "gameplay.qmd": {
+    "gameplay.html": "51587945"
+  },
+  "game_mechanics.qmd": {
+    "game_mechanics.html": "653dc61e"
+  },
+  "event_cards.qmd": {
+    "event_cards.html": "99cf0980"
+  },
+  "task_cards.qmd": {
+    "task_cards.html": "0373bfff"
+  },
+  "board_layout.qmd": {
+    "board_layout.html": "2b1f937f"
+  },
+  "terminology.qmd": {
+    "terminology.html": "c8afe0bb"
+  },
+  "strategy_tips.qmd": {
+    "strategy_tips.html": "d717dcf2"
+  },
+  "design_notes.qmd": {
+    "design_notes.html": "9d4ccbdb"
+  },
+  "appendices.qmd": {
+    "appendices.html": "9d7ee0a0"
+  },
+  "resource_management.qmd": {
+    "resource_management.html": "b8043dff"
+  },
+  "player_feedback_form.qmd": {
+    "player_feedback_form.html": "650ee484"
+  },
+  "board_modification_instructions.qmd": {
+    "board_modification_instructions.html": "1f365f09"
+  }
+}

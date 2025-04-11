@@ -1,0 +1,60 @@
+---
+#title: "Event Cards"
+author: "Esteban Solorzano"
+---
+
+# Event Cards
+
+Event Cards introduce unexpected challenges and opportunities that affect player progress. These events reflect real-world hurdles and advantages in medical device development.
+
+## How Event Cards Work
+
+-   When a player lands on an **Event Space**, they draw an Event Card and follow its instructions.
+-   Some cards have **immediate effects**, while others require a dice roll to determine the outcome.
+-   Players may choose to spend resources to mitigate negative effects.
+
+## Complete List of Event Cards
+
+| ID | Event Name | Description | Effect |
+|---------------|---------------------|---------------------|---------------|
+| EV001 | FDA Fast Track Designation | Your device qualifies for expedited regulatory review. | Advance directly to the **Regulatory Approval** phase. |
+| EV002 | Cybersecurity Breach | A vulnerability in your device software is exposed. | Lose **2 Morale** and **1 Innovation Token**. |
+| EV003 | Unexpected Side Effect | Clinical trials reveal an unanticipated patient reaction. | Return to the **Prototyping Phase** to address the issue, losing **1 Time Token**. |
+| EV004 | Breakthrough Technology | A novel discovery accelerates your development. | Gain **2 Morale** and **1 Innovation Token**. |
+| EV005 | Supply Chain Disruption | A key component is backordered. | Lose **1 Funding Token**. |
+| EV006 | Patent Infringement Lawsuit | A competitor challenges your IP. | Lose **2 Morale** and **2 Funding Tokens**. |
+| EV007 | Clinical Trial Success | Positive trial results boost your credibility. | Gain **2 Morale** and advance to the next phase. |
+| EV008 | Clinical Trial Failure | The clinical trial did not meet expected outcomes. | Lose **2 Morale** and return to the **Prototyping Phase**. |
+| EV009 | Key Opinion Leader Endorsement | A well-known specialist supports your device. | Gain **1 Morale** and **1 Funding Token**. |
+| EV010 | Competitor Launches Similar Device | Another company beats you to market. | Lose **1 Morale**. |
+| EV011 | Regulatory Changes | New guidelines require additional documentation. | Draw a new **Task Card** and spend **1 Time Token**. |
+| EV012 | Patient Advocacy Group Support | Public support for your device increases. | Gain **1 Morale** and **1 Innovation Token**. |
+| EV013 | Ethical Dilemma | A controversial design decision arises. | Lose **1 Morale** and choose a new **Task Card**. |
+| EV014 | Manufacturing Defect | Quality control finds a major flaw. | Return to the **Verification & Validation Phase**. |
+| EV015 | Unexpected Market Demand | Surge in demand for your product. | Gain **2 Funding Tokens**. |
+| EV016 | Product Recall | A critical failure requires pulling your product from market. | Lose **2 Morale** and return to the **Prototyping Phase**. |
+| EV017 | Merger & Acquisition | A larger company offers to acquire your project. | Gain **2 Resource Tokens** of your choice. |
+| EV018 | Natural Disaster | Supply chain interruptions due to external factors. | Lose **1 Resource Token** of your choice (Innovation, Funding, Morale, or Time). |
+| EV019 | Celebrity Endorsement | A well-known public figure promotes your device. | Gain **2 Morale** and **1 Innovation Token**. |
+| EV020 | Economic Recession | Funding sources become limited. | Lose **1 Funding Token**. |
+| EV021 | Investor Confidence | A major investor increases funding. | Gain **1 Funding Token**. |
+| EV022 | Government Grant | Your device qualifies for federal funding. | Gain **2 Funding Tokens**. |
+| EV023 | Trade Show Success | Your product receives industry-wide recognition. | Gain **1 Morale** and **1 Innovation Token**. |
+| EV024 | Employee Strike | Workforce disputes slow down development. | Lose **1 Morale** and **1 Time Token**. |
+| EV025 | Unionization Effort | Increased labor negotiations cause delays. | Lose **1 Morale** and **1 Funding Token**. |
+| EV026 | Workplace Accident | A safety issue affects development. | Lose **1 Morale** and **1 Time Token**. |
+| EV027 | Equipment Failure | Critical lab equipment breaks down. | Lose **1 Time Token**. |
+| EV028 | Quality Control Issue | A design flaw is detected in pre-market testing. | Lose **1 Morale** and **1 Time Token**. |
+| EV029 | Environmental Audit | Your product undergoes scrutiny for environmental impact. | Lose **1 Funding Token**. |
+| EV030 | Sustainability Initiative | You implement eco-friendly practices. | Gain **1 Morale** and **1 Innovation Token**. |
+| EV031 | Product Launch Event | A marketing push generates excitement. | Gain **2 Morale** and **1 Funding Token**. |
+| EV032 | Market Saturation | Competitors flood the market with similar products. | Lose **1 Morale** and **1 Funding Token**. |
+
+```{=html}
+<!--
+GPT for creating the cards:
+
+Create svg image code for all the event cards defined in #file:event_cards.qmd. Put the content of the cards into a rounded rectangle of 85mm (height) by 60mm (width). Create an individual text file for each svg code for each card. Use #file:event card template.txt as the template for the cards. Ensure the text of the card fits into each card, wrap text as necessary. Take note that these are board game cards. Put the files in the folder called "event cards" that exists in the workspace. The card tile text needs to be 3 words or less for each line. The rest of the content should be 4 words or less for each line. Lower the text of the effect to be a little closer to the bottom of the card. Also create the file for the first card. The file names of each card should include the card ID.
+
+-->
+```

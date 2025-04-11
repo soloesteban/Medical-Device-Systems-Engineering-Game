@@ -1,0 +1,27 @@
+---
+#title: "Game Overview"
+author: "Esteban Solorzano"
+date: "2025-03-01"
+---
+
+# Critical Path: The Systems Engineer’s Quest
+
+## Introduction
+Critical Path: The Systems Engineer’s Quest is a competitive board game where players take on the role of systems engineers striving to bring an innovative medical device to market. Each player must navigate technical challenges, regulatory hurdles, and stakeholder demands while optimizing resources and time. The game offers a dynamic blend of strategy, risk management, and problem-solving, immersing players in the complexities of medical device development.
+
+## Theme and Setting
+In a world where life-saving medical technology is in high demand, players step into the shoes of ambitious engineers working in rival firms. The goal? Successfully navigate the rigorous product development lifecycle and gain regulatory approval before competitors do. Each decision impacts progress, and only the most efficient and strategic engineer will emerge victorious.
+
+## Objectives
+Players must:
+
+- Advance through six development phases: Stakeholder Needs, System Architecture, Requirements Writing, Prototyping, Verification & Validation, and Regulatory Approval.
+- Manage resources such as funding, innovation, and morale to optimize efficiency.
+- Handle unexpected industry events through chance-based draws.
+- Balance risk and reward when making critical design and business decisions.
+- Be the first to complete all phases and launch their medical device to win!
+
+## Win Conditions
+The first player to successfully complete all six phases and gain regulatory approval for their device wins the game. Players who mismanage resources or fail key development milestones may face setbacks, making strategic planning essential for victory.
+
+<!--Stay tuned for detailed rules, game setup, and mechanics in the following sections!-->

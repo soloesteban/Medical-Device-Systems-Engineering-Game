@@ -1,0 +1,47 @@
+---
+#title: "Design Notes"
+author: "Esteban Solorzano"
+date: "2025-03-01"
+---
+
+# Design Notes
+
+This section outlines the key design principles behind **Critical Path: The Systems Engineer’s Quest**, integrating best practices from *Your Turn!: The Guide to Great Tabletop Game Design* by Scott Rogers.
+
+## Core Design Philosophy
+The game is built upon three fundamental design principles:
+
+1. **Engagement Through Realism** – The game accurately reflects the challenges of medical device development.
+2. **Decision-Driven Gameplay** – Players must make strategic choices at every stage.
+3. **Dynamic Interaction** – The combination of competitive and cooperative elements fosters an engaging experience.
+
+## Applying *Your Turn!* Principles
+### Player Agency & Meaningful Decisions
+- Players are not just rolling dice but making crucial trade-offs (e.g., speed vs. quality in prototyping).
+- Choices affect future outcomes—bad risk management early on can lead to major setbacks later.
+
+### Risk vs. Reward Mechanics
+- High-risk strategies (e.g., pushing a product to market early) can yield fast wins but also potential failures.
+- Players must balance resources wisely, mirroring real-world engineering constraints.
+
+### Thematic Integration
+- The game board is structured as a development timeline, reinforcing the process-based nature of medical device engineering.
+- Task Cards and Event Cards are modeled after real-world scenarios, ensuring authenticity.
+
+### Player Interaction & Competition
+- Players can trade, form temporary alliances, or sabotage competitors (e.g., patent disputes, regulatory hurdles).
+- Limited resources encourage strategic conflict—who secures funding first?
+
+### Accessible but Deep Mechanics
+- Simple dice rolls determine movement and task outcomes.
+- Advanced players can develop strategic depth through resource planning and negotiation.
+
+## Playtesting Insights & Iterations
+- **First Iteration:** Too much complexity—simplified task resolution mechanics.
+- **Second Iteration:** Players enjoyed competition, so we added more interaction points (e.g., blocking regulatory approval).
+- **Third Iteration:** Adjusted balance for resource tokens to prevent runaway leaders.
+
+## Next Steps
+- Finalize graphic design and board layout.
+- Expand playtesting to refine balance.
+- Develop digital companion tools (e.g., online score tracker, virtual task cards).

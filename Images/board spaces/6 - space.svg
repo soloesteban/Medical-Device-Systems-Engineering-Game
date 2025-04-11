@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Game board Space 6 -->
+
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  width="2in"
+  height="2in"
+  viewBox="0 0 2 2"
+  version="1.1"
+  xmlns:xlink="http://www.w3.org/1999/xlink">
+  
+  <!-- Background square -->
+  <rect
+    x="0"
+    y="0"
+    width="2"
+    height="2"
+    fill="#90ee90"
+    stroke="#000000"
+    stroke-width="0.1" />
+
+  <!-- Wrapped and centered text -->
+  <text
+    x="1"
+    y="0.95"
+    text-anchor="middle"
+    font-size="0.20"
+    font-family="sans-serif"
+    fill="#000000">
+    <tspan x="1" dy="0">Perform Market</tspan>
+    <tspan x="1" dy="0.3">Research</tspan>
+  </text>
+
+  <!-- Blue triangle in the upper-right corner -->
+  <polygon
+    points="2,0 1.4,0 2,0.6"
+    fill="blue" />
+
+</svg>

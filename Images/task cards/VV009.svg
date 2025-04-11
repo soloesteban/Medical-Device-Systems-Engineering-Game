@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="60mm" height="85mm" viewBox="0 0 60 85">
+  <rect x="1" y="1" width="58" height="83" rx="5" ry="5" fill="white" stroke="black" stroke-width="0.5"/>
+  <text x="5" y="15" font-family="Arial" font-size="3.5" font-weight="bold" fill="black">Perform Environmental Testing</text>
+  <text x="5" y="30" font-family="Arial" font-size="3" fill="black"><tspan font-weight="bold">Required Check:</tspan> Analytical Skill</text>
+  <text x="5" y="35" font-family="Arial" font-size="3" fill="black"><tspan font-weight="bold">Dice Roll:</tspan> 6+</text>
+  <text x="5" y="45" font-family="Arial" font-size="3" fill="black"><tspan font-weight="bold">Success:</tspan> Validate Device Durability</text>
+  <text x="5" y="55" font-family="Arial" font-size="3" fill="black"><tspan font-weight="bold">Failure:</tspan> Lose 1 Time Token</text>
+  <text x="5" y="65" font-family="Arial" font-size="3" fill="black"><tspan font-weight="bold">Alt:</tspan> Spend 1 Innovation</text>
+  <text x="5" y="70" font-family="Arial" font-size="3" fill="black">Token to retry</text>
+</svg>

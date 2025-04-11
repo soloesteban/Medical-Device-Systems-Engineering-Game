@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="60mm" height="85mm" viewBox="0 0 60 85">
+  <rect x="1" y="1" width="58" height="83" rx="5" ry="5" fill="white" stroke="black" stroke-width="0.5"/>
+  <text x="5" y="15" font-family="Arial" font-size="3.5" font-weight="bold" fill="black">Investigate Competitor Patents</text>
+  <text x="5" y="30" font-family="Arial" font-size="3" fill="black"><tspan font-weight="bold">Required Check:</tspan> Systems Thinking</text>
+  <text x="5" y="35" font-family="Arial" font-size="3" fill="black"><tspan font-weight="bold">Dice Roll:</tspan> 5+</text>
+  <text x="5" y="45" font-family="Arial" font-size="3" fill="black"><tspan font-weight="bold">Success:</tspan> Discover Potential Legal</text>
+  <text x="5" y="50" font-family="Arial" font-size="3" fill="black">Risks</text>
+  <text x="5" y="60" font-family="Arial" font-size="3" fill="black"><tspan font-weight="bold">Failure:</tspan> Lose 1 Funding Token</text>
+  <text x="5" y="70" font-family="Arial" font-size="3" fill="black"><tspan font-weight="bold">Alt:</tspan> Spend 1 Innovation</text>
+  <text x="5" y="75" font-family="Arial" font-size="3" fill="black">Token to mitigate</text>
+  <text x="5" y="80" font-family="Arial" font-size="4" font-weight="bold" fill="black">SN006</text>
+</svg>
