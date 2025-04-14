@@ -29,6 +29,7 @@ Before starting, ensure you have the following components:
      - 2 Time Tokens
 3. **Shuffle Cards**:
    - Shuffle Task Cards and place them face down in their designated areas.
+     - Task Cards are color-coded and must match the game board task space color during gameplay.
    - Shuffle Event Cards into a separate deck.
 4. **Place Player Tokens on the Board**:
    - All players start in the **Stakeholder Needs** phase.

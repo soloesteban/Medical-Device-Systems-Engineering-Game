@@ -9,4 +9,5 @@
   <text x="5" y="60" font-family="Arial" font-size="3" fill="black">Turn</text>
   <text x="5" y="70" font-family="Arial" font-size="3" fill="black"><tspan font-weight="bold">Alt:</tspan> Spend 1 Innovation</text>
   <text x="5" y="75" font-family="Arial" font-size="3" fill="black">Token to revise</text>
+  <text x="5%" y="95%" font-family="Arial" font-size="4" text-anchor="start"><tspan font-weight="bold">ID:</tspan> RW001</text>
 </svg>

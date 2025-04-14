@@ -6,34 +6,50 @@ author: "Esteban Solorzano"
 # Game Mechanics
 
 ## Movement
-- Players roll a six-sided die (D6) to determine how many spaces they move.
-- Certain spaces allow players to choose an alternate route, offering strategic flexibility.
-- Some spaces require players to draw an **Event Card**, affecting their progress.
+
+-   Players roll a six-sided die (D6) to determine how many spaces they move.
+-   Certain spaces allow players to choose an alternate route, offering strategic flexibility.
+-   Some spaces require players to draw an **Event Card**, affecting their progress.
 
 ## Task Resolution
+
 Each **Task Card** requires players to roll a die and apply relevant modifiers.
 
-- **Success**: Progress in the development phase, gain morale, or receive resource bonuses.
-- **Failure**: Face setbacks such as delays, resource loss, or morale reduction.
-- Some tasks require a **critical success** (rolling a natural 6) to unlock bonus rewards.
+-   **Success**: Progress in the development phase, gain morale, or receive resource bonuses.
+-   **Failure**: Face setbacks such as delays, resource loss, or morale reduction.
+-   Some tasks require a **critical success** (rolling a natural 6) to unlock bonus rewards.
 
 ## Resource Management
+
 Players must manage key resources to stay on track:
 
-1. **Funding Tokens** – Needed for research, development, and regulatory submissions.
-2. **Innovation Tokens** – Improve success chances on technical and regulatory challenges.
-3. **Morale Points** – Low morale affects dice rolls and efficiency. Losing all morale results in setbacks.
-4. **Time Tokens** – Used to reduce delays or extend deadlines in project development.
+1.  **Funding Tokens** – Needed for research, development, and regulatory submissions.
+
+    ![](images/funding%20token.png)
+
+2.  **Innovation Tokens** – Improve success chances on technical and regulatory challenges.
+
+    ![](images/innovation%20token.png)
+
+3.  **Morale Points** – Low morale affects dice rolls and efficiency. Losing all morale results in setbacks.
+
+    ![](images/morale%20token.png)
+
+4.  **Time Tokens** – Used to reduce delays or extend deadlines in project development.
+
+    ![](images/time%20token.png)
 
 ## Conflict Resolution
+
 Since multiple players are competing, conflicts arise when:
 
-- Players attempt to patent similar technologies.
-- Regulatory bodies impose restrictions that delay competitors.
-- Market competition leads to funding cuts or loss of key team members.
-- Players can negotiate, trade resources, or form temporary alliances.
+-   Players attempt to patent similar technologies.
+-   Regulatory bodies impose restrictions that delay competitors.
+-   Market competition leads to funding cuts or loss of key team members.
+-   Players can negotiate, trade resources, or form temporary alliances.
 
 ## Special Mechanics
-1. **Regulatory Challenges** – Certain event cards may introduce new regulations, forcing players to revise their design or reapply for approval.
-2. **Chance & Risk Management** – Players can opt to take high-risk/high-reward decisions that can propel them forward or cause costly failures.
-3. **Market Disruptions** – A game spinner determines random industry-wide events that may impact all players simultaneously.
+
+1.  **Regulatory Challenges** – Certain event cards may introduce new regulations, forcing players to revise their design or reapply for approval.
+2.  **Chance & Risk Management** – Players can opt to take high-risk/high-reward decisions that can propel them forward or cause costly failures.
+3.  **Market Disruptions** – A game spinner determines random industry-wide events that may impact all players simultaneously.

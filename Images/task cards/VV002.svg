@@ -7,4 +7,5 @@
   <text x="5" y="55" font-family="Arial" font-size="3" fill="black"><tspan font-weight="bold">Failure:</tspan> Lose 1 Morale</text>
   <text x="5" y="65" font-family="Arial" font-size="3" fill="black"><tspan font-weight="bold">Alt:</tspan> Spend 1 Funding</text>
   <text x="5" y="70" font-family="Arial" font-size="3" fill="black">Token to retry</text>
+  <text x="5%" y="95%" font-family="Arial" font-size="4" text-anchor="start"><tspan font-weight="bold">ID:</tspan> VV002</text>
 </svg>

@@ -3,8 +3,12 @@
   <text x="5" y="15" font-family="Arial" font-size="3.5" font-weight="bold" fill="black">Address Regulatory Feedback</text>
   <text x="5" y="30" font-family="Arial" font-size="3" fill="black"><tspan font-weight="bold">Required Check:</tspan> Communication</text>
   <text x="5" y="35" font-family="Arial" font-size="3" fill="black"><tspan font-weight="bold">Dice Roll:</tspan> 5+</text>
-  <text x="5" y="45" font-family="Arial" font-size="3" fill="black"><tspan font-weight="bold">Success:</tspan> Satisfy Regulatory Inspectors</text>
+  <text x="5" y="45" font-family="Arial" font-size="3" fill="black">
+    <tspan font-weight="bold">Success:</tspan> Satisfy Regulatory
+  </text>
+  <text x="5" y="50" font-family="Arial" font-size="3" fill="black">Inspectors</text>
   <text x="5" y="55" font-family="Arial" font-size="3" fill="black"><tspan font-weight="bold">Failure:</tspan> Lose 1 Morale</text>
   <text x="5" y="65" font-family="Arial" font-size="3" fill="black"><tspan font-weight="bold">Alt:</tspan> Spend 1 Funding</text>
   <text x="5" y="70" font-family="Arial" font-size="3" fill="black">Token to expedite</text>
+  <text x="5%" y="95%" font-family="Arial" font-size="4" text-anchor="start"><tspan font-weight="bold">ID:</tspan> RA010</text>
 </svg>

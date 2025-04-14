@@ -1,0 +1,17 @@
+<!-- filepath: c:\Users\solorze\OneDrive - Boston Scientific\INCOSE\Healthcare Conference 2025\Medical Device Systems Engineering Game\task_logo.svg -->
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="450" viewBox="0 0 300 450">
+  <!-- Background -->
+  <!-- rect width="300" height="450" fill="white" / -->
+
+  <!-- Checklist Icon -->
+  <rect x="50" y="100" width="200" height="250" rx="10" fill="#e0e0e0" />
+  <line x1="70" y1="140" x2="230" y2="140" stroke="#000" stroke-width="4" />
+  <line x1="70" y1="180" x2="230" y2="180" stroke="#000" stroke-width="4" />
+  <line x1="70" y1="220" x2="230" y2="220" stroke="#000" stroke-width="4" />
+  <polyline points="70,260 90,280 130,240" fill="none" stroke="#000" stroke-width="6" />
+
+  <!-- Text -->
+  <text x="150" y="320" font-family="Arial, sans-serif" font-size="50" fill="blue" text-anchor="middle">
+    Task
+  </text>
+</svg>

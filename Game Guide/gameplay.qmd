@@ -12,6 +12,8 @@ Each turn consists of the following steps:
 1. **Roll Dice & Move**
    - Roll a six-sided die and move the corresponding number of spaces along the board.
    - If you land on a **Task Space**, draw a **Task Card** and resolve it.
+     - Ensure the Task Card's logo color matches the game board task space color.
+     - If the card color does not match, continue drawing cards until a matching card is found.
    - If you land on an **Event Space**, draw an **Event Card** and follow its instructions.
    
 2. **Resolve Task Cards**

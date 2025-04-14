@@ -8,5 +8,5 @@
   <text x="5" y="60" font-family="Arial" font-size="3" fill="black"><tspan font-weight="bold">Failure:</tspan> Lose 1 Funding Token</text>
   <text x="5" y="70" font-family="Arial" font-size="3" fill="black"><tspan font-weight="bold">Alt:</tspan> Spend 1 Innovation</text>
   <text x="5" y="75" font-family="Arial" font-size="3" fill="black">Token to mitigate</text>
-  <text x="5" y="80" font-family="Arial" font-size="4" font-weight="bold" fill="black">SN006</text>
+  <text x="5%" y="95%" font-family="Arial" font-size="4" text-anchor="start"><tspan font-weight="bold">ID:</tspan> SN006</text>
 </svg>

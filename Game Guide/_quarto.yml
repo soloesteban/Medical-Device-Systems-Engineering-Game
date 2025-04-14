@@ -11,13 +11,13 @@ book:
         city: Arden Hills
         state: MM
         url: www.bostonscientific.com
-  date: "4/10/2025"
+  date: "4/14/2025"
   chapters:
     - index.qmd
     - game_overview.qmd
     - game_setup.qmd
     - gameplay.qmd
-    - game_mechanics.qmd
+    #- game_mechanics.qmd
     - event_cards.qmd
     - task_cards.qmd
     - board_layout.qmd
