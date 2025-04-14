@@ -180,323 +180,383 @@
     ]
   },
   {
+    "objectID": "game_mechanics.html",
+    "href": "game_mechanics.html",
+    "title": "4  Game Mechanics",
+    "section": "",
+    "text": "4.1 Movement",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Game Mechanics</span>"
+    ]
+  },
+  {
+    "objectID": "game_mechanics.html#movement",
+    "href": "game_mechanics.html#movement",
+    "title": "4  Game Mechanics",
+    "section": "",
+    "text": "Players roll a six-sided die (D6) to determine how many spaces they move.\nCertain spaces allow players to choose an alternate route, offering strategic flexibility.\nSome spaces require players to draw an Event Card, affecting their progress.",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Game Mechanics</span>"
+    ]
+  },
+  {
+    "objectID": "game_mechanics.html#task-resolution",
+    "href": "game_mechanics.html#task-resolution",
+    "title": "4  Game Mechanics",
+    "section": "4.2 Task Resolution",
+    "text": "4.2 Task Resolution\nEach Task Card requires players to roll a die and apply relevant modifiers.\n\nSuccess: Progress in the development phase, gain morale, or receive resource bonuses.\nFailure: Face setbacks such as delays, resource loss, or morale reduction.\nSome tasks require a critical success (rolling a natural 6) to unlock bonus rewards.",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Game Mechanics</span>"
+    ]
+  },
+  {
+    "objectID": "game_mechanics.html#resource-management",
+    "href": "game_mechanics.html#resource-management",
+    "title": "4  Game Mechanics",
+    "section": "4.3 Resource Management",
+    "text": "4.3 Resource Management\nPlayers must manage key resources to stay on track:\n\nFunding Tokens – Needed for research, development, and regulatory submissions.\n\nInnovation Tokens – Improve success chances on technical and regulatory challenges.\n\nMorale Points – Low morale affects dice rolls and efficiency. Losing all morale results in setbacks.\n\nTime Tokens – Used to reduce delays or extend deadlines in project development.",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Game Mechanics</span>"
+    ]
+  },
+  {
+    "objectID": "game_mechanics.html#conflict-resolution",
+    "href": "game_mechanics.html#conflict-resolution",
+    "title": "4  Game Mechanics",
+    "section": "4.4 Conflict Resolution",
+    "text": "4.4 Conflict Resolution\nSince multiple players are competing, conflicts arise when:\n\nPlayers attempt to patent similar technologies.\nRegulatory bodies impose restrictions that delay competitors.\nMarket competition leads to funding cuts or loss of key team members.\nPlayers can negotiate, trade resources, or form temporary alliances.",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Game Mechanics</span>"
+    ]
+  },
+  {
+    "objectID": "game_mechanics.html#special-mechanics",
+    "href": "game_mechanics.html#special-mechanics",
+    "title": "4  Game Mechanics",
+    "section": "4.5 Special Mechanics",
+    "text": "4.5 Special Mechanics\n\nRegulatory Challenges – Certain event cards may introduce new regulations, forcing players to revise their design or reapply for approval.\nChance & Risk Management – Players can opt to take high-risk/high-reward decisions that can propel them forward or cause costly failures.\nMarket Disruptions – A game spinner determines random industry-wide events that may impact all players simultaneously.",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Game Mechanics</span>"
+    ]
+  },
+  {
     "objectID": "event_cards.html",
     "href": "event_cards.html",
-    "title": "4  Event Cards",
+    "title": "5  Event Cards",
     "section": "",
-    "text": "4.1 How Event Cards Work\nEvent Cards introduce unexpected challenges and opportunities that affect player progress. These events reflect real-world hurdles and advantages in medical device development.",
+    "text": "5.1 How Event Cards Work\nEvent Cards introduce unexpected challenges and opportunities that affect player progress. These events reflect real-world hurdles and advantages in medical device development.",
     "crumbs": [
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Event Cards</span>"
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Event Cards</span>"
     ]
   },
   {
     "objectID": "event_cards.html#how-event-cards-work",
     "href": "event_cards.html#how-event-cards-work",
-    "title": "4  Event Cards",
+    "title": "5  Event Cards",
     "section": "",
     "text": "When a player lands on an Event Space, they draw an Event Card and follow its instructions.\nSome cards have immediate effects, while others require a dice roll to determine the outcome.\nPlayers may choose to spend resources to mitigate negative effects.",
     "crumbs": [
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Event Cards</span>"
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Event Cards</span>"
     ]
   },
   {
     "objectID": "event_cards.html#complete-list-of-event-cards",
     "href": "event_cards.html#complete-list-of-event-cards",
-    "title": "4  Event Cards",
-    "section": "4.2 Complete List of Event Cards",
-    "text": "4.2 Complete List of Event Cards\n\n\n\n\n\n\n\n\n\nID\nEvent Name\nDescription\nEffect\n\n\n\n\nEV001\nFDA Fast Track Designation\nYour device qualifies for expedited regulatory review.\nAdvance directly to the Regulatory Approval phase.\n\n\nEV002\nCybersecurity Breach\nA vulnerability in your device software is exposed.\nLose 2 Morale and 1 Innovation Token.\n\n\nEV003\nUnexpected Side Effect\nClinical trials reveal an unanticipated patient reaction.\nReturn to the Prototyping Phase to address the issue, losing 1 Time Token.\n\n\nEV004\nBreakthrough Technology\nA novel discovery accelerates your development.\nGain 2 Morale and 1 Innovation Token.\n\n\nEV005\nSupply Chain Disruption\nA key component is backordered.\nLose 1 Funding Token.\n\n\nEV006\nPatent Infringement Lawsuit\nA competitor challenges your IP.\nLose 2 Morale and 2 Funding Tokens.\n\n\nEV007\nClinical Trial Success\nPositive trial results boost your credibility.\nGain 2 Morale and advance to the next phase.\n\n\nEV008\nClinical Trial Failure\nThe clinical trial did not meet expected outcomes.\nLose 2 Morale and return to the Prototyping Phase.\n\n\nEV009\nKey Opinion Leader Endorsement\nA well-known specialist supports your device.\nGain 1 Morale and 1 Funding Token.\n\n\nEV010\nCompetitor Launches Similar Device\nAnother company beats you to market.\nLose 1 Morale.\n\n\nEV011\nRegulatory Changes\nNew guidelines require additional documentation.\nDraw a new Task Card and spend 1 Time Token.\n\n\nEV012\nPatient Advocacy Group Support\nPublic support for your device increases.\nGain 1 Morale and 1 Innovation Token.\n\n\nEV013\nEthical Dilemma\nA controversial design decision arises.\nLose 1 Morale and choose a new Task Card.\n\n\nEV014\nManufacturing Defect\nQuality control finds a major flaw.\nReturn to the Verification & Validation Phase.\n\n\nEV015\nUnexpected Market Demand\nSurge in demand for your product.\nGain 2 Funding Tokens.\n\n\nEV016\nProduct Recall\nA critical failure requires pulling your product from market.\nLose 2 Morale and return to the Prototyping Phase.\n\n\nEV017\nMerger & Acquisition\nA larger company offers to acquire your project.\nGain 2 Resource Tokens of your choice.\n\n\nEV018\nNatural Disaster\nSupply chain interruptions due to external factors.\nLose 1 Resource Token of your choice (Innovation, Funding, Morale, or Time).\n\n\nEV019\nCelebrity Endorsement\nA well-known public figure promotes your device.\nGain 2 Morale and 1 Innovation Token.\n\n\nEV020\nEconomic Recession\nFunding sources become limited.\nLose 1 Funding Token.\n\n\nEV021\nInvestor Confidence\nA major investor increases funding.\nGain 1 Funding Token.\n\n\nEV022\nGovernment Grant\nYour device qualifies for federal funding.\nGain 2 Funding Tokens.\n\n\nEV023\nTrade Show Success\nYour product receives industry-wide recognition.\nGain 1 Morale and 1 Innovation Token.\n\n\nEV024\nEmployee Strike\nWorkforce disputes slow down development.\nLose 1 Morale and 1 Time Token.\n\n\nEV025\nUnionization Effort\nIncreased labor negotiations cause delays.\nLose 1 Morale and 1 Funding Token.\n\n\nEV026\nWorkplace Accident\nA safety issue affects development.\nLose 1 Morale and 1 Time Token.\n\n\nEV027\nEquipment Failure\nCritical lab equipment breaks down.\nLose 1 Time Token.\n\n\nEV028\nQuality Control Issue\nA design flaw is detected in pre-market testing.\nLose 1 Morale and 1 Time Token.\n\n\nEV029\nEnvironmental Audit\nYour product undergoes scrutiny for environmental impact.\nLose 1 Funding Token.\n\n\nEV030\nSustainability Initiative\nYou implement eco-friendly practices.\nGain 1 Morale and 1 Innovation Token.\n\n\nEV031\nProduct Launch Event\nA marketing push generates excitement.\nGain 2 Morale and 1 Funding Token.\n\n\nEV032\nMarket Saturation\nCompetitors flood the market with similar products.\nLose 1 Morale and 1 Funding Token.",
+    "title": "5  Event Cards",
+    "section": "5.2 Complete List of Event Cards",
+    "text": "5.2 Complete List of Event Cards\n\n\n\n\n\n\n\n\n\nID\nEvent Name\nDescription\nEffect\n\n\n\n\nEV001\nFDA Fast Track Designation\nYour device qualifies for expedited regulatory review.\nAdvance directly to the Regulatory Approval phase.\n\n\nEV002\nCybersecurity Breach\nA vulnerability in your device software is exposed.\nLose 2 Morale and 1 Innovation Token.\n\n\nEV003\nUnexpected Side Effect\nClinical trials reveal an unanticipated patient reaction.\nReturn to the Prototyping Phase to address the issue, losing 1 Time Token.\n\n\nEV004\nBreakthrough Technology\nA novel discovery accelerates your development.\nGain 2 Morale and 1 Innovation Token.\n\n\nEV005\nSupply Chain Disruption\nA key component is backordered.\nLose 1 Funding Token.\n\n\nEV006\nPatent Infringement Lawsuit\nA competitor challenges your IP.\nLose 2 Morale and 2 Funding Tokens.\n\n\nEV007\nClinical Trial Success\nPositive trial results boost your credibility.\nGain 2 Morale and advance to the next phase.\n\n\nEV008\nClinical Trial Failure\nThe clinical trial did not meet expected outcomes.\nLose 2 Morale and return to the Prototyping Phase.\n\n\nEV009\nKey Opinion Leader Endorsement\nA well-known specialist supports your device.\nGain 1 Morale and 1 Funding Token.\n\n\nEV010\nCompetitor Launches Similar Device\nAnother company beats you to market.\nLose 1 Morale.\n\n\nEV011\nRegulatory Changes\nNew guidelines require additional documentation.\nDraw a new Task Card and spend 1 Time Token.\n\n\nEV012\nPatient Advocacy Group Support\nPublic support for your device increases.\nGain 1 Morale and 1 Innovation Token.\n\n\nEV013\nEthical Dilemma\nA controversial design decision arises.\nLose 1 Morale and choose a new Task Card.\n\n\nEV014\nManufacturing Defect\nQuality control finds a major flaw.\nReturn to the Verification & Validation Phase.\n\n\nEV015\nUnexpected Market Demand\nSurge in demand for your product.\nGain 2 Funding Tokens.\n\n\nEV016\nProduct Recall\nA critical failure requires pulling your product from market.\nLose 2 Morale and return to the Prototyping Phase.\n\n\nEV017\nMerger & Acquisition\nA larger company offers to acquire your project.\nGain 2 Resource Tokens of your choice.\n\n\nEV018\nNatural Disaster\nSupply chain interruptions due to external factors.\nLose 1 Resource Token of your choice (Innovation, Funding, Morale, or Time).\n\n\nEV019\nCelebrity Endorsement\nA well-known public figure promotes your device.\nGain 2 Morale and 1 Innovation Token.\n\n\nEV020\nEconomic Recession\nFunding sources become limited.\nLose 1 Funding Token.\n\n\nEV021\nInvestor Confidence\nA major investor increases funding.\nGain 1 Funding Token.\n\n\nEV022\nGovernment Grant\nYour device qualifies for federal funding.\nGain 2 Funding Tokens.\n\n\nEV023\nTrade Show Success\nYour product receives industry-wide recognition.\nGain 1 Morale and 1 Innovation Token.\n\n\nEV024\nEmployee Strike\nWorkforce disputes slow down development.\nLose 1 Morale and 1 Time Token.\n\n\nEV025\nUnionization Effort\nIncreased labor negotiations cause delays.\nLose 1 Morale and 1 Funding Token.\n\n\nEV026\nWorkplace Accident\nA safety issue affects development.\nLose 1 Morale and 1 Time Token.\n\n\nEV027\nEquipment Failure\nCritical lab equipment breaks down.\nLose 1 Time Token.\n\n\nEV028\nQuality Control Issue\nA design flaw is detected in pre-market testing.\nLose 1 Morale and 1 Time Token.\n\n\nEV029\nEnvironmental Audit\nYour product undergoes scrutiny for environmental impact.\nLose 1 Funding Token.\n\n\nEV030\nSustainability Initiative\nYou implement eco-friendly practices.\nGain 1 Morale and 1 Innovation Token.\n\n\nEV031\nProduct Launch Event\nA marketing push generates excitement.\nGain 2 Morale and 1 Funding Token.\n\n\nEV032\nMarket Saturation\nCompetitors flood the market with similar products.\nLose 1 Morale and 1 Funding Token.",
     "crumbs": [
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Event Cards</span>"
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Event Cards</span>"
     ]
   },
   {
     "objectID": "task_cards.html",
     "href": "task_cards.html",
-    "title": "5  Task Cards",
+    "title": "6  Task Cards",
     "section": "",
-    "text": "5.1 How Task Cards Work\nTask Cards represent the challenges players must overcome in each phase of medical device development. These tasks require skill checks, resource management, and sometimes dice rolls to progress.",
+    "text": "6.1 How Task Cards Work\nTask Cards represent the challenges players must overcome in each phase of medical device development. These tasks require skill checks, resource management, and sometimes dice rolls to progress.",
     "crumbs": [
-      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Task Cards</span>"
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Task Cards</span>"
     ]
   },
   {
     "objectID": "task_cards.html#how-task-cards-work",
     "href": "task_cards.html#how-task-cards-work",
-    "title": "5  Task Cards",
+    "title": "6  Task Cards",
     "section": "",
     "text": "When landing on a Task Space, the player draws a Task Card.\nEach Task Card specifies a challenge, required skill checks, and possible outcomes.\nPlayers roll a die and apply skill/resource modifiers to determine the result.\nSome tasks allow players to spend resources to modify the outcome if they are unsatisfied with the roll.",
     "crumbs": [
-      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Task Cards</span>"
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Task Cards</span>"
     ]
   },
   {
     "objectID": "task_cards.html#expanded-task-card-categories",
     "href": "task_cards.html#expanded-task-card-categories",
-    "title": "5  Task Cards",
-    "section": "5.2 Expanded Task Card Categories",
-    "text": "5.2 Expanded Task Card Categories\n\n5.2.1 Stakeholder Needs Phase\n\n\n\n\n\n\n\n\n\n\n\n\nID\nTask\nRequired Check\nDice Roll\nSuccess Outcome\nFailure Outcome\nAlternative Action\n\n\n\n\nSN001\nConduct Patient Interviews\nCommunication\n4+\nGain 1 Innovation Token\nLose 1 Morale\nSpend 1 Innovation Token to re-roll\n\n\nSN002\nPhysician Consultation\nStakeholder Management\n5+\nDefine Key Medical Needs\nDelay Progress by 1 Turn\nSpend 1 Funding Token to skip delay\n\n\nSN003\nRegulatory Body Meeting\nRegulatory Knowledge\n6+\nIdentify Early Compliance Needs\nLose 1 Funding Token\nSpend 1 Innovation Token to auto-succeed\n\n\nSN004\nHost Public Engagement Session\nCommunication\n5+\nImprove Public Trust\nLose 1 Morale\nSpend 1 Innovation Token to retry\n\n\nSN005\nCompile Market Research Report\nAnalytical Skill\n4+\nIdentify Competitive Edge\nLose 1 Time Token\nSpend 1 Innovation Token to revise research\n\n\nSN006\nInvestigate Competitor Patents\nSystems Thinking\n5+\nDiscover Potential Legal Risks\nLose 1 Funding Token\nSpend 1 Innovation Token to mitigate\n\n\nSN007\nConduct Focus Group\nCommunication\n4+\nGain Valuable User Insights\nLose 1 Time Token\nSpend 1 Innovation Token to refine survey\n\n\nSN008\nConduct Market Survey\nAnalytical Skill\n4+\nIdentify Market Trends\nLose 1 Time Token\nSpend 1 Innovation Token to retry\n\n\nSN009\nHost Stakeholder Workshop\nCommunication\n5+\nAlign Stakeholder Expectations\nLose 1 Morale\nSpend 1 Funding Token to retry\n\n\nSN010\nAnalyze Patient Data\nSystems Thinking\n6+\nGain Deeper Insights\nLose 1 Funding Token\nSpend 1 Innovation Token to mitigate\n\n\nSN011\nReview Clinical Guidelines\nRegulatory Knowledge\n5+\nEnsure Compliance Alignment\nLose 1 Time Token\nSpend 1 Innovation Token to retry\n\n\nSN012\nDevelop Stakeholder Personas\nDocumentation\n4+\nImprove User Understanding\nLose 1 Morale\nSpend 1 Innovation Token to refine\n\n\nSN013\nConduct Competitive Analysis\nAnalytical Skill\n5+\nIdentify Market Gaps\nLose 1 Funding Token\nSpend 1 Innovation Token to retry\n\n\nSN014\nHost Advisory Board Meeting\nCommunication\n6+\nGain Strategic Insights\nLose 1 Morale\nSpend 1 Innovation Token to retry\n\n\nSN015\nDraft Initial Project Charter\nDocumentation\n4+\nDefine Project Scope\nLose 1 Time Token\nSpend 1 Innovation Token to revise\n\n\nSN016\nInterview Key Opinion Leaders\nStakeholder Management\n5+\nGain Expert Recommendations\nLose 1 Morale\nSpend 1 Funding Token to retry\n\n\nSN017\nValidate Stakeholder Requirements\nSystems Thinking\n6+\nEnsure Requirement Accuracy\nLose 1 Time Token\nSpend 1 Innovation Token to retry\n\n\n\n\n\n5.2.2 System Architecture Phase\n\n\n\n\n\n\n\n\n\n\n\n\nID\nTask\nRequired Check\nDice Roll\nSuccess Outcome\nFailure Outcome\nAlternative Action\n\n\n\n\nSA001\nDefine System Requirements\nSystems Thinking\n5+\nGain 1 Innovation Token\nDelay Progress by 1 Turn\nSpend 1 Innovation Token to retry\n\n\nSA002\nInterface Definition\nDocumentation\n6+\nImprove System Integration\nLose 1 Time Token\nSpend 1 Innovation Token to auto-succeed\n\n\nSA003\nRisk Analysis\nRisk Management\n4+\nMitigate Future Issues\nLose 1 Morale\nSpend 1 Funding Token to negate failure\n\n\nSA004\nMap Out Failure Modes\nAnalytical Skill\n5+\nIdentify Critical Design Issues\nLose 1 Time Token\nSpend 1 Innovation Token to find alternative solutions\n\n\nSA005\nDevelop High-Level System Diagram\nSystems Thinking\n5+\nImprove Component Efficiency\nLose 1 Funding Token\nSpend 1 Innovation Token to speed up development\n\n\nSA006\nSelect Key Materials\nTechnical Expertise\n5+\nImprove Device Longevity\nLose 1 Funding Token\nSpend 1 Innovation Token to optimize selection\n\n\nSA007\nValidate Subsystem Interfaces\nDocumentation\n6+\nReduce Future Integration Issues\nLose 1 Morale\nSpend 1 Innovation Token to preempt problems\n\n\nSA008\nDevelop System Block Diagram\nSystems Thinking\n5+\nImprove System Clarity\nLose 1 Time Token\nSpend 1 Innovation Token to retry\n\n\nSA009\nConduct Feasibility Study\nAnalytical Skill\n6+\nIdentify Technical Risks\nLose 1 Funding Token\nSpend 1 Innovation Token to mitigate\n\n\nSA010\nDefine Software Architecture\nTechnical Expertise\n5+\nImprove Software Scalability\nLose 1 Morale\nSpend 1 Innovation Token to retry\n\n\nSA011\nSelect Core Technologies\nSystems Thinking\n4+\nGain 1 Innovation Token\nLose 1 Time Token\nSpend 1 Innovation Token to retry\n\n\nSA012\nConduct Design Trade-Off Analysis\nAnalytical Skill\n5+\nOptimize System Performance\nLose 1 Funding Token\nSpend 1 Innovation Token to retry\n\n\nSA013\nReview System Interfaces\nDocumentation\n6+\nReduce Integration Issues\nLose 1 Morale\nSpend 1 Innovation Token to revise\n\n\nSA014\nPerform Risk Assessment\nRisk Management\n5+\nMitigate Potential Failures\nLose 1 Time Token\nSpend 1 Funding Token to retry\n\n\nSA015\nDevelop System Integration Plan\nDocumentation\n4+\nImprove Development Workflow\nLose 1 Morale\nSpend 1 Innovation Token to retry\n\n\nSA016\nValidate System Requirements\nSystems Thinking\n5+\nEnsure Requirement Feasibility\nLose 1 Time Token\nSpend 1 Innovation Token to retry\n\n\nSA017\nConduct Technical Review\nStakeholder Management\n6+\nGain Stakeholder Approval\nLose 1 Morale\nSpend 1 Funding Token to retry\n\n\n\n\n\n5.2.3 Requirements Writing Phase\n\n\n\n\n\n\n\n\n\n\n\n\nID\nTask\nRequired Check\nDice Roll\nSuccess Outcome\nFailure Outcome\nAlternative Action\n\n\n\n\nRW001\nWrite User Needs Specification\nDocumentation\n5+\nCreate Clear Guidelines\nRework Required, Lose 1 Turn\nSpend 1 Innovation Token to revise immediately\n\n\nRW002\nConduct Stakeholder Review\nCommunication\n4+\nSecure Approval\nLose 1 Morale\nSpend 1 Innovation Token to smooth negotiations\n\n\nRW003\nDevelop Verification Criteria\nAnalytical Skill\n6+\nImprove Requirement Traceability\nLose 1 Time Token\nSpend 1 Innovation Token to correct errors\n\n\nRW004\nDefine Safety-Critical Features\nRisk Management\n5+\nImprove System Reliability\nLose 1 Morale\nSpend 1 Funding Token to increase safety testing\n\n\nRW005\nStandardize Documentation Format\nDocumentation\n4+\nReduce Review Time\nLose 1 Time Token\nSpend 1 Innovation Token to streamline process\n\n\nRW006\nReview Regulatory Guidelines\nRegulatory Knowledge\n5+\nEnsure Compliance Alignment\nLose 1 Funding Token\nSpend 1 Innovation Token to mitigate regulatory risk\n\n\nRW007\nEvaluate Edge Cases\nSystems Thinking\n4+\nImprove Design Robustness\nLose 1 Time Token\nSpend 1 Innovation Token to prevent issues\n\n\nRW008\nDraft Functional Requirements\nDocumentation\n5+\nImprove Requirement Clarity\nLose 1 Time Token\nSpend 1 Innovation Token to revise\n\n\nRW009\nConduct Requirements Workshop\nCommunication\n4+\nAlign Team Understanding\nLose 1 Morale\nSpend 1 Funding Token to retry\n\n\nRW010\nReview Industry Standards\nRegulatory Knowledge\n6+\nEnsure Compliance Alignment\nLose 1 Funding Token\nSpend 1 Innovation Token to retry\n\n\nRW011\nDefine Verification Methods\nAnalytical Skill\n5+\nImprove Test Coverage\nLose 1 Time Token\nSpend 1 Innovation Token to retry\n\n\nRW012\nDraft Risk Management Plan\nRisk Management\n4+\nMitigate Future Risks\nLose 1 Morale\nSpend 1 Funding Token to retry\n\n\nRW013\nValidate Requirement Traceability\nSystems Thinking\n5+\nEnsure Requirement Accuracy\nLose 1 Time Token\nSpend 1 Innovation Token to retry\n\n\nRW014\nConduct Peer Review\nDocumentation\n6+\nImprove Requirement Quality\nLose 1 Morale\nSpend 1 Innovation Token to revise\n\n\nRW015\nDefine Non-Functional Requirements\nAnalytical Skill\n5+\nImprove System Robustness\nLose 1 Time Token\nSpend 1 Innovation Token to retry\n\n\nRW016\nReview Safety Standards\nRegulatory Knowledge\n4+\nEnsure Safety Compliance\nLose 1 Funding Token\nSpend 1 Innovation Token to retry\n\n\nRW017\nFinalize Requirements Document\nDocumentation\n5+\nGain Stakeholder Approval\nLose 1 Morale\nSpend 1 Innovation Token to finalize\n\n\n\n\n\n5.2.4 Prototyping Phase\n\n\n\n\n\n\n\n\n\n\n\n\nID\nTask\nRequired Check\nDice Roll\nSuccess Outcome\nFailure Outcome\nAlternative Action\n\n\n\n\nPR001\nBuild Initial Prototype\nTechnical Expertise\n4+\nGain 1 Innovation Token\nLose 1 Time Token\nSpend 1 Innovation Token to retry\n\n\nPR002\nConduct User Feedback Session\nCommunication\n5+\nImprove Prototype Design\nLose 1 Morale\nSpend 1 Funding Token to refine design\n\n\nPR003\nPerform Bench Testing\nAnalytical Skill\n6+\nIdentify Critical Flaws\nLose 1 Funding Token\nSpend 1 Innovation Token to mitigate\n\n\nPR004\nIterate Prototype Design\nSystems Thinking\n5+\nImprove Device Performance\nLose 1 Time Token\nSpend 1 Innovation Token to retry\n\n\nPR005\nSource Prototype Materials\nTechnical Expertise\n4+\nReduce Manufacturing Costs\nLose 1 Funding Token\nSpend 1 Innovation Token to optimize\n\n\nPR006\nConduct Design Review\nDocumentation\n5+\nGain Stakeholder Approval\nLose 1 Morale\nSpend 1 Innovation Token to retry\n\n\nPR007\nAddress Prototype Failures\nRisk Management\n6+\nMitigate Future Risks\nLose 1 Time Token\nSpend 1 Innovation Token to resolve\n\n\nPR008\nDevelop 3D Model\nTechnical Expertise\n4+\nImprove Prototype Accuracy\nLose 1 Time Token\nSpend 1 Innovation Token to retry\n\n\nPR009\nConduct Material Testing\nAnalytical Skill\n5+\nIdentify Optimal Materials\nLose 1 Funding Token\nSpend 1 Innovation Token to retry\n\n\nPR010\nPerform Stress Testing\nRisk Management\n6+\nIdentify Design Weaknesses\nLose 1 Morale\nSpend 1 Innovation Token to mitigate\n\n\nPR011\nBuild Functional Prototype\nTechnical Expertise\n5+\nGain 1 Innovation Token\nLose 1 Time Token\nSpend 1 Innovation Token to retry\n\n\nPR012\nConduct Usability Testing\nCommunication\n4+\nImprove User Experience\nLose 1 Morale\nSpend 1 Funding Token to retry\n\n\nPR013\nIterate Prototype Design\nSystems Thinking\n5+\nImprove Device Performance\nLose 1 Time Token\nSpend 1 Innovation Token to retry\n\n\nPR014\nValidate Prototype Performance\nAnalytical Skill\n6+\nEnsure Design Feasibility\nLose 1 Funding Token\nSpend 1 Innovation Token to retry\n\n\nPR015\nConduct Design Freeze Review\nDocumentation\n5+\nFinalize Prototype Design\nLose 1 Morale\nSpend 1 Innovation Token to finalize\n\n\nPR016\nAddress Prototype Feedback\nCommunication\n4+\nRefine Prototype Features\nLose 1 Time Token\nSpend 1 Innovation Token to retry\n\n\nPR017\nSource Prototype Components\nTechnical Expertise\n5+\nReduce Manufacturing Costs\nLose 1 Funding Token\nSpend 1 Innovation Token to optimize\n\n\n\n\n\n5.2.5 Verification & Validation Phase\n\n\n\n\n\n\n\n\n\n\n\n\nID\nTask\nRequired Check\nDice Roll\nSuccess Outcome\nFailure Outcome\nAlternative Action\n\n\n\n\nVV001\nConduct Preclinical Testing\nRegulatory Knowledge\n5+\nGain 1 Innovation Token\nLose 1 Funding Token\nSpend 1 Innovation Token to retry\n\n\nVV002\nPerform Human Factors Study\nCommunication\n4+\nImprove Usability\nLose 1 Morale\nSpend 1 Funding Token to retry\n\n\nVV003\nExecute Bench Testing\nAnalytical Skill\n6+\nValidate Device Performance\nLose 1 Time Token\nSpend 1 Innovation Token to retry\n\n\nVV004\nAddress Test Failures\nRisk Management\n5+\nMitigate Design Risks\nLose 1 Morale\nSpend 1 Innovation Token to resolve\n\n\nVV005\nFinalize Validation Protocols\nDocumentation\n4+\nEnsure Compliance Alignment\nLose 1 Time Token\nSpend 1 Innovation Token to revise\n\n\nVV006\nConduct Risk Mitigation Review\nSystems Thinking\n5+\nReduce Future Compliance Issues\nLose 1 Funding Token\nSpend 1 Innovation Token to retry\n\n\nVV007\nPrepare Validation Report\nDocumentation\n6+\nGain Regulatory Confidence\nLose 1 Morale\nSpend 1 Innovation Token to finalize\n\n\nVV008\nConduct Clinical Simulation\nRegulatory Knowledge\n5+\nGain 1 Innovation Token\nLose 1 Funding Token\nSpend 1 Innovation Token to retry\n\n\nVV009\nPerform Environmental Testing\nAnalytical Skill\n6+\nValidate Device Durability\nLose 1 Time Token\nSpend 1 Innovation Token to retry\n\n\nVV010\nExecute Software Validation\nTechnical Expertise\n5+\nEnsure Software Reliability\nLose 1 Morale\nSpend 1 Innovation Token to retry\n\n\nVV011\nConduct Failure Analysis\nRisk Management\n4+\nMitigate Design Risks\nLose 1 Time Token\nSpend 1 Funding Token to retry\n\n\nVV012\nValidate Human Factors\nCommunication\n5+\nImprove Usability\nLose 1 Morale\nSpend 1 Funding Token to retry\n\n\nVV013\nReview Validation Protocols\nDocumentation\n6+\nEnsure Test Accuracy\nLose 1 Time Token\nSpend 1 Innovation Token to revise\n\n\nVV014\nConduct Preclinical Study\nRegulatory Knowledge\n5+\nGain Regulatory Confidence\nLose 1 Funding Token\nSpend 1 Innovation Token to retry\n\n\nVV015\nAddress Validation Failures\nRisk Management\n4+\nResolve Design Issues\nLose 1 Morale\nSpend 1 Innovation Token to resolve\n\n\nVV016\nFinalize Validation Report\nDocumentation\n5+\nGain Stakeholder Approval\nLose 1 Time Token\nSpend 1 Innovation Token to finalize\n\n\nVV017\nConduct System Integration Testing\nSystems Thinking\n6+\nEnsure System Compatibility\nLose 1 Funding Token\nSpend 1 Innovation Token to retry\n\n\n\n\n\n5.2.6 Regulatory Approval Phase\n\n\n\n\n\n\n\n\n\n\n\n\nID\nTask\nRequired Check\nDice Roll\nSuccess Outcome\nFailure Outcome\nAlternative Action\n\n\n\n\nRA001\nSubmit Regulatory Documents\nDocumentation\n5+\nAdvance to Regulatory Review\nLose 1 Time Token\nSpend 1 Innovation Token to retry\n\n\nRA002\nAddress Regulatory Questions\nRegulatory Knowledge\n6+\nResolve Compliance Issues\nLose 1 Funding Token\nSpend 1 Innovation Token to resolve\n\n\nRA003\nConduct Internal Audit\nRisk Management\n4+\nImprove Submission Quality\nLose 1 Morale\nSpend 1 Innovation Token to retry\n\n\nRA004\nRespond to Inspection Findings\nCommunication\n5+\nSatisfy Regulatory Inspectors\nLose 1 Time Token\nSpend 1 Funding Token to expedite\n\n\nRA005\nFinalize Submission Package\nDocumentation\n6+\nGain Regulatory Approval\nLose 1 Morale\nSpend 1 Innovation Token to finalize\n\n\nRA006\nAddress Market Feedback\nSystems Thinking\n5+\nImprove Market Readiness\nLose 1 Funding Token\nSpend 1 Innovation Token to retry\n\n\nRA007\nSecure Final Approval\nRegulatory Knowledge\n6+\nLaunch Product Successfully\nLose 1 Time Token\nSpend 1 Innovation Token to retry\n\n\nRA008\nPrepare Risk Management Report\nDocumentation\n5+\nEnsure Compliance Alignment\nLose 1 Time Token\nSpend 1 Innovation Token to revise\n\n\nRA009\nConduct Regulatory Gap Analysis\nRegulatory Knowledge\n6+\nIdentify Compliance Issues\nLose 1 Funding Token\nSpend 1 Innovation Token to resolve\n\n\nRA010\nAddress Regulatory Feedback\nCommunication\n5+\nSatisfy Regulatory Inspectors\nLose 1 Morale\nSpend 1 Funding Token to expedite\n\n\nRA011\nConduct Final Submission Review\nDocumentation\n4+\nEnsure Submission Accuracy\nLose 1 Time Token\nSpend 1 Innovation Token to finalize\n\n\nRA012\nRespond to Market Feedback\nSystems Thinking\n5+\nImprove Market Readiness\nLose 1 Funding Token\nSpend 1 Innovation Token to retry\n\n\nRA013\nConduct Post-Market Surveillance\nRisk Management\n6+\nIdentify Market Risks\nLose 1 Morale\nSpend 1 Innovation Token to mitigate\n\n\nRA014\nFinalize Regulatory Submission\nDocumentation\n5+\nGain Regulatory Approval\nLose 1 Time Token\nSpend 1 Innovation Token to finalize\n\n\nRA015\nConduct Internal Compliance Audit\nRegulatory Knowledge\n4+\nImprove Submission Quality\nLose 1 Morale\nSpend 1 Innovation Token to retry\n\n\nRA016\nSecure International Approvals\nCommunication\n5+\nExpand Market Reach\nLose 1 Funding Token\nSpend 1 Innovation Token to retry\n\n\nRA017\nAddress Post-Approval Changes\nSystems Thinking\n6+\nMaintain Compliance\nLose 1 Time Token\nSpend 1 Innovation Token to resolve",
+    "title": "6  Task Cards",
+    "section": "6.2 Expanded Task Card Categories",
+    "text": "6.2 Expanded Task Card Categories\n\n6.2.1 Stakeholder Needs Phase\n\n\n\n\n\n\n\n\n\n\n\n\nID\nTask\nRequired Check\nDice Roll\nSuccess Outcome\nFailure Outcome\nAlternative Action\n\n\n\n\nSN001\nConduct Patient Interviews\nCommunication\n4+\nGain 1 Innovation Token\nLose 1 Morale\nSpend 1 Innovation Token to re-roll\n\n\nSN002\nPhysician Consultation\nStakeholder Management\n5+\nDefine Key Medical Needs\nDelay Progress by 1 Turn\nSpend 1 Funding Token to skip delay\n\n\nSN003\nRegulatory Body Meeting\nRegulatory Knowledge\n6+\nIdentify Early Compliance Needs\nLose 1 Funding Token\nSpend 1 Innovation Token to auto-succeed\n\n\nSN004\nHost Public Engagement Session\nCommunication\n5+\nImprove Public Trust\nLose 1 Morale\nSpend 1 Innovation Token to retry\n\n\nSN005\nCompile Market Research Report\nAnalytical Skill\n4+\nIdentify Competitive Edge\nLose 1 Time Token\nSpend 1 Innovation Token to revise research\n\n\nSN006\nInvestigate Competitor Patents\nSystems Thinking\n5+\nDiscover Potential Legal Risks\nLose 1 Funding Token\nSpend 1 Innovation Token to mitigate\n\n\nSN007\nConduct Focus Group\nCommunication\n4+\nGain Valuable User Insights\nLose 1 Time Token\nSpend 1 Innovation Token to refine survey\n\n\nSN008\nConduct Market Survey\nAnalytical Skill\n4+\nIdentify Market Trends\nLose 1 Time Token\nSpend 1 Innovation Token to retry\n\n\nSN009\nHost Stakeholder Workshop\nCommunication\n5+\nAlign Stakeholder Expectations\nLose 1 Morale\nSpend 1 Funding Token to retry\n\n\nSN010\nAnalyze Patient Data\nSystems Thinking\n6+\nGain Deeper Insights\nLose 1 Funding Token\nSpend 1 Innovation Token to mitigate\n\n\nSN011\nReview Clinical Guidelines\nRegulatory Knowledge\n5+\nEnsure Compliance Alignment\nLose 1 Time Token\nSpend 1 Innovation Token to retry\n\n\nSN012\nDevelop Stakeholder Personas\nDocumentation\n4+\nImprove User Understanding\nLose 1 Morale\nSpend 1 Innovation Token to refine\n\n\nSN013\nConduct Competitive Analysis\nAnalytical Skill\n5+\nIdentify Market Gaps\nLose 1 Funding Token\nSpend 1 Innovation Token to retry\n\n\nSN014\nHost Advisory Board Meeting\nCommunication\n6+\nGain Strategic Insights\nLose 1 Morale\nSpend 1 Innovation Token to retry\n\n\nSN015\nDraft Initial Project Charter\nDocumentation\n4+\nDefine Project Scope\nLose 1 Time Token\nSpend 1 Innovation Token to revise\n\n\nSN016\nInterview Key Opinion Leaders\nStakeholder Management\n5+\nGain Expert Recommendations\nLose 1 Morale\nSpend 1 Funding Token to retry\n\n\nSN017\nValidate Stakeholder Requirements\nSystems Thinking\n6+\nEnsure Requirement Accuracy\nLose 1 Time Token\nSpend 1 Innovation Token to retry\n\n\n\n\n\n6.2.2 System Architecture Phase\n\n\n\n\n\n\n\n\n\n\n\n\nID\nTask\nRequired Check\nDice Roll\nSuccess Outcome\nFailure Outcome\nAlternative Action\n\n\n\n\nSA001\nDefine System Requirements\nSystems Thinking\n5+\nGain 1 Innovation Token\nDelay Progress by 1 Turn\nSpend 1 Innovation Token to retry\n\n\nSA002\nInterface Definition\nDocumentation\n6+\nImprove System Integration\nLose 1 Time Token\nSpend 1 Innovation Token to auto-succeed\n\n\nSA003\nRisk Analysis\nRisk Management\n4+\nMitigate Future Issues\nLose 1 Morale\nSpend 1 Funding Token to negate failure\n\n\nSA004\nMap Out Failure Modes\nAnalytical Skill\n5+\nIdentify Critical Design Issues\nLose 1 Time Token\nSpend 1 Innovation Token to find alternative solutions\n\n\nSA005\nDevelop High-Level System Diagram\nSystems Thinking\n5+\nImprove Component Efficiency\nLose 1 Funding Token\nSpend 1 Innovation Token to speed up development\n\n\nSA006\nSelect Key Materials\nTechnical Expertise\n5+\nImprove Device Longevity\nLose 1 Funding Token\nSpend 1 Innovation Token to optimize selection\n\n\nSA007\nValidate Subsystem Interfaces\nDocumentation\n6+\nReduce Future Integration Issues\nLose 1 Morale\nSpend 1 Innovation Token to preempt problems\n\n\nSA008\nDevelop System Block Diagram\nSystems Thinking\n5+\nImprove System Clarity\nLose 1 Time Token\nSpend 1 Innovation Token to retry\n\n\nSA009\nConduct Feasibility Study\nAnalytical Skill\n6+\nIdentify Technical Risks\nLose 1 Funding Token\nSpend 1 Innovation Token to mitigate\n\n\nSA010\nDefine Software Architecture\nTechnical Expertise\n5+\nImprove Software Scalability\nLose 1 Morale\nSpend 1 Innovation Token to retry\n\n\nSA011\nSelect Core Technologies\nSystems Thinking\n4+\nGain 1 Innovation Token\nLose 1 Time Token\nSpend 1 Innovation Token to retry\n\n\nSA012\nConduct Design Trade-Off Analysis\nAnalytical Skill\n5+\nOptimize System Performance\nLose 1 Funding Token\nSpend 1 Innovation Token to retry\n\n\nSA013\nReview System Interfaces\nDocumentation\n6+\nReduce Integration Issues\nLose 1 Morale\nSpend 1 Innovation Token to revise\n\n\nSA014\nPerform Risk Assessment\nRisk Management\n5+\nMitigate Potential Failures\nLose 1 Time Token\nSpend 1 Funding Token to retry\n\n\nSA015\nDevelop System Integration Plan\nDocumentation\n4+\nImprove Development Workflow\nLose 1 Morale\nSpend 1 Innovation Token to retry\n\n\nSA016\nValidate System Requirements\nSystems Thinking\n5+\nEnsure Requirement Feasibility\nLose 1 Time Token\nSpend 1 Innovation Token to retry\n\n\nSA017\nConduct Technical Review\nStakeholder Management\n6+\nGain Stakeholder Approval\nLose 1 Morale\nSpend 1 Funding Token to retry\n\n\n\n\n\n6.2.3 Requirements Writing Phase\n\n\n\n\n\n\n\n\n\n\n\n\nID\nTask\nRequired Check\nDice Roll\nSuccess Outcome\nFailure Outcome\nAlternative Action\n\n\n\n\nRW001\nWrite User Needs Specification\nDocumentation\n5+\nCreate Clear Guidelines\nRework Required, Lose 1 Turn\nSpend 1 Innovation Token to revise immediately\n\n\nRW002\nConduct Stakeholder Review\nCommunication\n4+\nSecure Approval\nLose 1 Morale\nSpend 1 Innovation Token to smooth negotiations\n\n\nRW003\nDevelop Verification Criteria\nAnalytical Skill\n6+\nImprove Requirement Traceability\nLose 1 Time Token\nSpend 1 Innovation Token to correct errors\n\n\nRW004\nDefine Safety-Critical Features\nRisk Management\n5+\nImprove System Reliability\nLose 1 Morale\nSpend 1 Funding Token to increase safety testing\n\n\nRW005\nStandardize Documentation Format\nDocumentation\n4+\nReduce Review Time\nLose 1 Time Token\nSpend 1 Innovation Token to streamline process\n\n\nRW006\nReview Regulatory Guidelines\nRegulatory Knowledge\n5+\nEnsure Compliance Alignment\nLose 1 Funding Token\nSpend 1 Innovation Token to mitigate regulatory risk\n\n\nRW007\nEvaluate Edge Cases\nSystems Thinking\n4+\nImprove Design Robustness\nLose 1 Time Token\nSpend 1 Innovation Token to prevent issues\n\n\nRW008\nDraft Functional Requirements\nDocumentation\n5+\nImprove Requirement Clarity\nLose 1 Time Token\nSpend 1 Innovation Token to revise\n\n\nRW009\nConduct Requirements Workshop\nCommunication\n4+\nAlign Team Understanding\nLose 1 Morale\nSpend 1 Funding Token to retry\n\n\nRW010\nReview Industry Standards\nRegulatory Knowledge\n6+\nEnsure Compliance Alignment\nLose 1 Funding Token\nSpend 1 Innovation Token to retry\n\n\nRW011\nDefine Verification Methods\nAnalytical Skill\n5+\nImprove Test Coverage\nLose 1 Time Token\nSpend 1 Innovation Token to retry\n\n\nRW012\nDraft Risk Management Plan\nRisk Management\n4+\nMitigate Future Risks\nLose 1 Morale\nSpend 1 Funding Token to retry\n\n\nRW013\nValidate Requirement Traceability\nSystems Thinking\n5+\nEnsure Requirement Accuracy\nLose 1 Time Token\nSpend 1 Innovation Token to retry\n\n\nRW014\nConduct Peer Review\nDocumentation\n6+\nImprove Requirement Quality\nLose 1 Morale\nSpend 1 Innovation Token to revise\n\n\nRW015\nDefine Non-Functional Requirements\nAnalytical Skill\n5+\nImprove System Robustness\nLose 1 Time Token\nSpend 1 Innovation Token to retry\n\n\nRW016\nReview Safety Standards\nRegulatory Knowledge\n4+\nEnsure Safety Compliance\nLose 1 Funding Token\nSpend 1 Innovation Token to retry\n\n\nRW017\nFinalize Requirements Document\nDocumentation\n5+\nGain Stakeholder Approval\nLose 1 Morale\nSpend 1 Innovation Token to finalize\n\n\n\n\n\n6.2.4 Prototyping Phase\n\n\n\n\n\n\n\n\n\n\n\n\nID\nTask\nRequired Check\nDice Roll\nSuccess Outcome\nFailure Outcome\nAlternative Action\n\n\n\n\nPR001\nBuild Initial Prototype\nTechnical Expertise\n4+\nGain 1 Innovation Token\nLose 1 Time Token\nSpend 1 Innovation Token to retry\n\n\nPR002\nConduct User Feedback Session\nCommunication\n5+\nImprove Prototype Design\nLose 1 Morale\nSpend 1 Funding Token to refine design\n\n\nPR003\nPerform Bench Testing\nAnalytical Skill\n6+\nIdentify Critical Flaws\nLose 1 Funding Token\nSpend 1 Innovation Token to mitigate\n\n\nPR004\nIterate Prototype Design\nSystems Thinking\n5+\nImprove Device Performance\nLose 1 Time Token\nSpend 1 Innovation Token to retry\n\n\nPR005\nSource Prototype Materials\nTechnical Expertise\n4+\nReduce Manufacturing Costs\nLose 1 Funding Token\nSpend 1 Innovation Token to optimize\n\n\nPR006\nConduct Design Review\nDocumentation\n5+\nGain Stakeholder Approval\nLose 1 Morale\nSpend 1 Innovation Token to retry\n\n\nPR007\nAddress Prototype Failures\nRisk Management\n6+\nMitigate Future Risks\nLose 1 Time Token\nSpend 1 Innovation Token to resolve\n\n\nPR008\nDevelop 3D Model\nTechnical Expertise\n4+\nImprove Prototype Accuracy\nLose 1 Time Token\nSpend 1 Innovation Token to retry\n\n\nPR009\nConduct Material Testing\nAnalytical Skill\n5+\nIdentify Optimal Materials\nLose 1 Funding Token\nSpend 1 Innovation Token to retry\n\n\nPR010\nPerform Stress Testing\nRisk Management\n6+\nIdentify Design Weaknesses\nLose 1 Morale\nSpend 1 Innovation Token to mitigate\n\n\nPR011\nBuild Functional Prototype\nTechnical Expertise\n5+\nGain 1 Innovation Token\nLose 1 Time Token\nSpend 1 Innovation Token to retry\n\n\nPR012\nConduct Usability Testing\nCommunication\n4+\nImprove User Experience\nLose 1 Morale\nSpend 1 Funding Token to retry\n\n\nPR013\nIterate Prototype Design\nSystems Thinking\n5+\nImprove Device Performance\nLose 1 Time Token\nSpend 1 Innovation Token to retry\n\n\nPR014\nValidate Prototype Performance\nAnalytical Skill\n6+\nEnsure Design Feasibility\nLose 1 Funding Token\nSpend 1 Innovation Token to retry\n\n\nPR015\nConduct Design Freeze Review\nDocumentation\n5+\nFinalize Prototype Design\nLose 1 Morale\nSpend 1 Innovation Token to finalize\n\n\nPR016\nAddress Prototype Feedback\nCommunication\n4+\nRefine Prototype Features\nLose 1 Time Token\nSpend 1 Innovation Token to retry\n\n\nPR017\nSource Prototype Components\nTechnical Expertise\n5+\nReduce Manufacturing Costs\nLose 1 Funding Token\nSpend 1 Innovation Token to optimize\n\n\n\n\n\n6.2.5 Verification & Validation Phase\n\n\n\n\n\n\n\n\n\n\n\n\nID\nTask\nRequired Check\nDice Roll\nSuccess Outcome\nFailure Outcome\nAlternative Action\n\n\n\n\nVV001\nConduct Preclinical Testing\nRegulatory Knowledge\n5+\nGain 1 Innovation Token\nLose 1 Funding Token\nSpend 1 Innovation Token to retry\n\n\nVV002\nPerform Human Factors Study\nCommunication\n4+\nImprove Usability\nLose 1 Morale\nSpend 1 Funding Token to retry\n\n\nVV003\nExecute Bench Testing\nAnalytical Skill\n6+\nValidate Device Performance\nLose 1 Time Token\nSpend 1 Innovation Token to retry\n\n\nVV004\nAddress Test Failures\nRisk Management\n5+\nMitigate Design Risks\nLose 1 Morale\nSpend 1 Innovation Token to resolve\n\n\nVV005\nFinalize Validation Protocols\nDocumentation\n4+\nEnsure Compliance Alignment\nLose 1 Time Token\nSpend 1 Innovation Token to revise\n\n\nVV006\nConduct Risk Mitigation Review\nSystems Thinking\n5+\nReduce Future Compliance Issues\nLose 1 Funding Token\nSpend 1 Innovation Token to retry\n\n\nVV007\nPrepare Validation Report\nDocumentation\n6+\nGain Regulatory Confidence\nLose 1 Morale\nSpend 1 Innovation Token to finalize\n\n\nVV008\nConduct Clinical Simulation\nRegulatory Knowledge\n5+\nGain 1 Innovation Token\nLose 1 Funding Token\nSpend 1 Innovation Token to retry\n\n\nVV009\nPerform Environmental Testing\nAnalytical Skill\n6+\nValidate Device Durability\nLose 1 Time Token\nSpend 1 Innovation Token to retry\n\n\nVV010\nExecute Software Validation\nTechnical Expertise\n5+\nEnsure Software Reliability\nLose 1 Morale\nSpend 1 Innovation Token to retry\n\n\nVV011\nConduct Failure Analysis\nRisk Management\n4+\nMitigate Design Risks\nLose 1 Time Token\nSpend 1 Funding Token to retry\n\n\nVV012\nValidate Human Factors\nCommunication\n5+\nImprove Usability\nLose 1 Morale\nSpend 1 Funding Token to retry\n\n\nVV013\nReview Validation Protocols\nDocumentation\n6+\nEnsure Test Accuracy\nLose 1 Time Token\nSpend 1 Innovation Token to revise\n\n\nVV014\nConduct Preclinical Study\nRegulatory Knowledge\n5+\nGain Regulatory Confidence\nLose 1 Funding Token\nSpend 1 Innovation Token to retry\n\n\nVV015\nAddress Validation Failures\nRisk Management\n4+\nResolve Design Issues\nLose 1 Morale\nSpend 1 Innovation Token to resolve\n\n\nVV016\nFinalize Validation Report\nDocumentation\n5+\nGain Stakeholder Approval\nLose 1 Time Token\nSpend 1 Innovation Token to finalize\n\n\nVV017\nConduct System Integration Testing\nSystems Thinking\n6+\nEnsure System Compatibility\nLose 1 Funding Token\nSpend 1 Innovation Token to retry\n\n\n\n\n\n6.2.6 Regulatory Approval Phase\n\n\n\n\n\n\n\n\n\n\n\n\nID\nTask\nRequired Check\nDice Roll\nSuccess Outcome\nFailure Outcome\nAlternative Action\n\n\n\n\nRA001\nSubmit Regulatory Documents\nDocumentation\n5+\nAdvance to Regulatory Review\nLose 1 Time Token\nSpend 1 Innovation Token to retry\n\n\nRA002\nAddress Regulatory Questions\nRegulatory Knowledge\n6+\nResolve Compliance Issues\nLose 1 Funding Token\nSpend 1 Innovation Token to resolve\n\n\nRA003\nConduct Internal Audit\nRisk Management\n4+\nImprove Submission Quality\nLose 1 Morale\nSpend 1 Innovation Token to retry\n\n\nRA004\nRespond to Inspection Findings\nCommunication\n5+\nSatisfy Regulatory Inspectors\nLose 1 Time Token\nSpend 1 Funding Token to expedite\n\n\nRA005\nFinalize Submission Package\nDocumentation\n6+\nGain Regulatory Approval\nLose 1 Morale\nSpend 1 Innovation Token to finalize\n\n\nRA006\nAddress Market Feedback\nSystems Thinking\n5+\nImprove Market Readiness\nLose 1 Funding Token\nSpend 1 Innovation Token to retry\n\n\nRA007\nSecure Final Approval\nRegulatory Knowledge\n6+\nLaunch Product Successfully\nLose 1 Time Token\nSpend 1 Innovation Token to retry\n\n\nRA008\nPrepare Risk Management Report\nDocumentation\n5+\nEnsure Compliance Alignment\nLose 1 Time Token\nSpend 1 Innovation Token to revise\n\n\nRA009\nConduct Regulatory Gap Analysis\nRegulatory Knowledge\n6+\nIdentify Compliance Issues\nLose 1 Funding Token\nSpend 1 Innovation Token to resolve\n\n\nRA010\nAddress Regulatory Feedback\nCommunication\n5+\nSatisfy Regulatory Inspectors\nLose 1 Morale\nSpend 1 Funding Token to expedite\n\n\nRA011\nConduct Final Submission Review\nDocumentation\n4+\nEnsure Submission Accuracy\nLose 1 Time Token\nSpend 1 Innovation Token to finalize\n\n\nRA012\nRespond to Market Feedback\nSystems Thinking\n5+\nImprove Market Readiness\nLose 1 Funding Token\nSpend 1 Innovation Token to retry\n\n\nRA013\nConduct Post-Market Surveillance\nRisk Management\n6+\nIdentify Market Risks\nLose 1 Morale\nSpend 1 Innovation Token to mitigate\n\n\nRA014\nFinalize Regulatory Submission\nDocumentation\n5+\nGain Regulatory Approval\nLose 1 Time Token\nSpend 1 Innovation Token to finalize\n\n\nRA015\nConduct Internal Compliance Audit\nRegulatory Knowledge\n4+\nImprove Submission Quality\nLose 1 Morale\nSpend 1 Innovation Token to retry\n\n\nRA016\nSecure International Approvals\nCommunication\n5+\nExpand Market Reach\nLose 1 Funding Token\nSpend 1 Innovation Token to retry\n\n\nRA017\nAddress Post-Approval Changes\nSystems Thinking\n6+\nMaintain Compliance\nLose 1 Time Token\nSpend 1 Innovation Token to resolve",
     "crumbs": [
-      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Task Cards</span>"
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Task Cards</span>"
     ]
   },
   {
     "objectID": "board_layout.html",
     "href": "board_layout.html",
-    "title": "6  Board Layout",
+    "title": "7  Board Layout",
     "section": "",
-    "text": "6.1 Board Structure\nThe Critical Path game board visually represents the journey of bringing a medical device to market. It consists of six primary phases, each containing various task spaces and event spaces. Players progress through these phases in sequence, overcoming challenges along the way.\nThe game board is divided into: 1. Stakeholder Needs Phase (Green Section) - Focuses on gathering user requirements and stakeholder alignment. - Includes spaces for patient interviews, physician consultations, and regulatory meetings.",
+    "text": "7.1 Board Structure\nThe Critical Path game board visually represents the journey of bringing a medical device to market. It consists of six primary phases, each containing various task spaces and event spaces. Players progress through these phases in sequence, overcoming challenges along the way.\nThe game board is divided into: 1. Stakeholder Needs Phase (Green Section) - Focuses on gathering user requirements and stakeholder alignment. - Includes spaces for patient interviews, physician consultations, and regulatory meetings.",
     "crumbs": [
-      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Board Layout</span>"
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Board Layout</span>"
     ]
   },
   {
     "objectID": "board_layout.html#board-structure",
     "href": "board_layout.html#board-structure",
-    "title": "6  Board Layout",
+    "title": "7  Board Layout",
     "section": "",
     "text": "System Architecture Phase (Blue Section)\n\nPlayers define system components, interfaces, and risk analysis.\nSpaces for requirement definition, technical analysis, and subsystem integration.\n\nRequirements Writing Phase (Yellow Section)\n\nWriting clear, verifiable, and regulatory-compliant requirements.\nSpaces for drafting user needs, system requirements, and validation plans.\n\nPrototyping Phase (Orange Section)\n\nDeveloping and refining a prototype based on defined requirements.\nSpaces for prototyping, iteration, and user feedback collection.\n\nVerification & Validation Phase (Purple Section)\n\nPlayers conduct testing, analyze results, and finalize product design.\nSpaces for test execution, risk mitigation, and final design approval.\n\nRegulatory Approval Phase (Red Section)\n\nPlayers prepare regulatory submissions and address compliance issues.\nSpaces for documentation submission, regulatory review, and inspection.",
     "crumbs": [
-      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Board Layout</span>"
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Board Layout</span>"
     ]
   },
   {
     "objectID": "board_layout.html#special-spaces",
     "href": "board_layout.html#special-spaces",
-    "title": "6  Board Layout",
-    "section": "6.2 Special Spaces",
-    "text": "6.2 Special Spaces\n\nChance Spaces: Players draw from the Chance Deck, introducing random industry events.\nCommunity Spaces: Players draw from the Community Deck, representing external collaboration and business opportunities.\nFast Track Lane: A shortcut available only if players meet specific requirements (e.g., FDA Fast Track approval).",
+    "title": "7  Board Layout",
+    "section": "7.2 Special Spaces",
+    "text": "7.2 Special Spaces\n\nChance Spaces: Players draw from the Chance Deck, introducing random industry events.\nCommunity Spaces: Players draw from the Community Deck, representing external collaboration and business opportunities.\nFast Track Lane: A shortcut available only if players meet specific requirements (e.g., FDA Fast Track approval).",
     "crumbs": [
-      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Board Layout</span>"
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Board Layout</span>"
     ]
   },
   {
     "objectID": "board_layout.html#movement-rules",
     "href": "board_layout.html#movement-rules",
-    "title": "6  Board Layout",
-    "section": "6.3 Movement Rules",
-    "text": "6.3 Movement Rules\n\nPlayers move by rolling a six-sided die (D6).\nSome paths have decision nodes where players can take alternate routes, introducing strategic choices.\nLanding on Event Spaces forces players to draw an Event Card and resolve it immediately.\n\n\n6.3.1 Example Layout (Conceptual)\nStart → Stakeholder Needs → System Architecture → Requirements Writing → Prototyping → Verification & Validation → Regulatory Approval → Market Launch\nPlayers progress along this path, completing challenges in each phase until they reach the final goal: Market Launch.",
+    "title": "7  Board Layout",
+    "section": "7.3 Movement Rules",
+    "text": "7.3 Movement Rules\n\nPlayers move by rolling a six-sided die (D6).\nSome paths have decision nodes where players can take alternate routes, introducing strategic choices.\nLanding on Event Spaces forces players to draw an Event Card and resolve it immediately.\n\n\n7.3.1 Example Layout (Conceptual)\nStart → Stakeholder Needs → System Architecture → Requirements Writing → Prototyping → Verification & Validation → Regulatory Approval → Market Launch\nPlayers progress along this path, completing challenges in each phase until they reach the final goal: Market Launch.",
     "crumbs": [
-      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Board Layout</span>"
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Board Layout</span>"
     ]
   },
   {
     "objectID": "terminology.html",
     "href": "terminology.html",
-    "title": "7  Terminology",
+    "title": "8  Terminology",
     "section": "",
-    "text": "7.1 General Game Terms\nThis section defines key terms used throughout Critical Path: The Systems Engineer’s Quest to ensure clarity and consistency in gameplay.",
+    "text": "8.1 General Game Terms\nThis section defines key terms used throughout Critical Path: The Systems Engineer’s Quest to ensure clarity and consistency in gameplay.",
     "crumbs": [
-      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Terminology</span>"
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Terminology</span>"
     ]
   },
   {
     "objectID": "terminology.html#general-game-terms",
     "href": "terminology.html#general-game-terms",
-    "title": "7  Terminology",
+    "title": "8  Terminology",
     "section": "",
     "text": "Player Token: A game piece representing a player’s progress through the phases.\nTask Card: A card drawn when a player lands on a task space, requiring them to complete a specific challenge.\nEvent Card: A card that introduces unexpected challenges or opportunities.\nChance Space: A space where players draw a random Chance Card, leading to unpredictable consequences.\nCommunity Space: A space where players draw a Community Card, representing industry collaborations and opportunities.\nDice Roll: Players roll a six-sided die (D6) to determine movement or resolve task outcomes.",
     "crumbs": [
-      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Terminology</span>"
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Terminology</span>"
     ]
   },
   {
     "objectID": "terminology.html#resource-terms",
     "href": "terminology.html#resource-terms",
-    "title": "7  Terminology",
-    "section": "7.2 Resource Terms",
-    "text": "7.2 Resource Terms\n\nFunding Token: Represents financial resources required for research, development, and regulatory approvals.\nExpertise Token: Symbolizes technical knowledge and proficiency in medical device development.\nInnovation Token: A resource that enables players to develop breakthrough technologies or expedite project phases.\nMorale Points: Measures team motivation; losing morale affects progress and task success rates.\nTime Token: Represents available time to complete tasks before facing penalties or project failure.",
+    "title": "8  Terminology",
+    "section": "8.2 Resource Terms",
+    "text": "8.2 Resource Terms\n\nFunding Token: Represents financial resources required for research, development, and regulatory approvals.\nExpertise Token: Symbolizes technical knowledge and proficiency in medical device development.\nInnovation Token: A resource that enables players to develop breakthrough technologies or expedite project phases.\nMorale Points: Measures team motivation; losing morale affects progress and task success rates.\nTime Token: Represents available time to complete tasks before facing penalties or project failure.",
     "crumbs": [
-      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Terminology</span>"
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Terminology</span>"
     ]
   },
   {
     "objectID": "terminology.html#game-phase-terms",
     "href": "terminology.html#game-phase-terms",
-    "title": "7  Terminology",
-    "section": "7.3 Game Phase Terms",
-    "text": "7.3 Game Phase Terms\n\nStakeholder Needs Phase: The initial phase where players identify user needs and regulatory expectations.\nSystem Architecture Phase: The phase where players define technical specifications and system design.\nRequirements Writing Phase: The phase where players document clear, testable, and regulatory-compliant requirements.\nPrototyping Phase: The stage where players develop, test, and refine early device models.\nVerification & Validation Phase: The process of testing the device against requirements to ensure it meets safety and performance standards.\nRegulatory Approval Phase: The final phase where players submit documentation and seek market approval.",
+    "title": "8  Terminology",
+    "section": "8.3 Game Phase Terms",
+    "text": "8.3 Game Phase Terms\n\nStakeholder Needs Phase: The initial phase where players identify user needs and regulatory expectations.\nSystem Architecture Phase: The phase where players define technical specifications and system design.\nRequirements Writing Phase: The phase where players document clear, testable, and regulatory-compliant requirements.\nPrototyping Phase: The stage where players develop, test, and refine early device models.\nVerification & Validation Phase: The process of testing the device against requirements to ensure it meets safety and performance standards.\nRegulatory Approval Phase: The final phase where players submit documentation and seek market approval.",
     "crumbs": [
-      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Terminology</span>"
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Terminology</span>"
     ]
   },
   {
     "objectID": "strategy_tips.html",
     "href": "strategy_tips.html",
-    "title": "8  Strategy Tips",
+    "title": "9  Strategy Tips",
     "section": "",
-    "text": "8.1 Prioritize Key Resources\nTo succeed in Critical Path: The Systems Engineer’s Quest, players must balance risk, resource management, and strategic decision-making. Here are some essential strategies to help you win the game.",
+    "text": "9.1 Prioritize Key Resources\nTo succeed in Critical Path: The Systems Engineer’s Quest, players must balance risk, resource management, and strategic decision-making. Here are some essential strategies to help you win the game.",
     "crumbs": [
-      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Strategy Tips</span>"
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Strategy Tips</span>"
     ]
   },
   {
     "objectID": "strategy_tips.html#prioritize-key-resources",
     "href": "strategy_tips.html#prioritize-key-resources",
-    "title": "8  Strategy Tips",
+    "title": "9  Strategy Tips",
     "section": "",
     "text": "Funding Tokens: Allocate funds wisely to avoid financial setbacks in later phases. \nInnovation Tokens: Use these sparingly but effectively—breakthroughs can accelerate your progress.\nMorale Points: Keep morale high; low morale impacts dice rolls and task outcomes.",
     "crumbs": [
-      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Strategy Tips</span>"
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Strategy Tips</span>"
     ]
   },
   {
     "objectID": "strategy_tips.html#plan-your-path-efficiently",
     "href": "strategy_tips.html#plan-your-path-efficiently",
-    "title": "8  Strategy Tips",
-    "section": "8.2 Plan Your Path Efficiently",
-    "text": "8.2 Plan Your Path Efficiently\n\nUse Alternate Routes: Some board spaces allow for different paths—take advantage of shorter or less risky routes.\nFast Track Lane: If possible, qualify for the Fast Track to bypass difficult phases.\nAvoid Delays: Losing time tokens can prevent you from keeping up with competitors.",
+    "title": "9  Strategy Tips",
+    "section": "9.2 Plan Your Path Efficiently",
+    "text": "9.2 Plan Your Path Efficiently\n\nUse Alternate Routes: Some board spaces allow for different paths—take advantage of shorter or less risky routes.\nFast Track Lane: If possible, qualify for the Fast Track to bypass difficult phases.\nAvoid Delays: Losing time tokens can prevent you from keeping up with competitors.",
     "crumbs": [
-      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Strategy Tips</span>"
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Strategy Tips</span>"
     ]
   },
   {
     "objectID": "strategy_tips.html#manage-risk-and-adapt-to-events",
     "href": "strategy_tips.html#manage-risk-and-adapt-to-events",
-    "title": "8  Strategy Tips",
-    "section": "8.3 Manage Risk and Adapt to Events",
-    "text": "8.3 Manage Risk and Adapt to Events\n\nMitigate Negative Event Cards: Keep extra resources handy to counteract setbacks.\nLeverage Positive Events: Certain cards offer bonuses—be ready to maximize their effects.\nBalance High-Risk Decisions: Some challenges offer big rewards but come with high failure rates—assess your chances before taking the risk.",
+    "title": "9  Strategy Tips",
+    "section": "9.3 Manage Risk and Adapt to Events",
+    "text": "9.3 Manage Risk and Adapt to Events\n\nMitigate Negative Event Cards: Keep extra resources handy to counteract setbacks.\nLeverage Positive Events: Certain cards offer bonuses—be ready to maximize their effects.\nBalance High-Risk Decisions: Some challenges offer big rewards but come with high failure rates—assess your chances before taking the risk.",
     "crumbs": [
-      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Strategy Tips</span>"
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Strategy Tips</span>"
     ]
   },
   {
     "objectID": "strategy_tips.html#master-task-resolution",
     "href": "strategy_tips.html#master-task-resolution",
-    "title": "8  Strategy Tips",
-    "section": "8.4 Master Task Resolution",
-    "text": "8.4 Master Task Resolution\n\nOptimize Dice Rolls: Certain skills improve success rates; investing in expertise early can pay off.\nLook for Bonus Rewards: Some tasks provide additional benefits if completed successfully—choose them wisely.\nDon’t Rush Prototyping: A well-tested prototype can prevent costly rework later.",
+    "title": "9  Strategy Tips",
+    "section": "9.4 Master Task Resolution",
+    "text": "9.4 Master Task Resolution\n\nOptimize Dice Rolls: Certain skills improve success rates; investing in expertise early can pay off.\nLook for Bonus Rewards: Some tasks provide additional benefits if completed successfully—choose them wisely.\nDon’t Rush Prototyping: A well-tested prototype can prevent costly rework later.",
     "crumbs": [
-      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Strategy Tips</span>"
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Strategy Tips</span>"
     ]
   },
   {
     "objectID": "strategy_tips.html#consider-player-interactions",
     "href": "strategy_tips.html#consider-player-interactions",
-    "title": "8  Strategy Tips",
-    "section": "8.5 Consider Player Interactions",
-    "text": "8.5 Consider Player Interactions\n\nTrade Strategically: Exchange expertise and resources with competitors when beneficial.\nBlock Opponents: Delay others by securing patents, outbidding funding, or leveraging event outcomes.\nNegotiate Alliances: Temporary alliances can help overcome shared obstacles, but be ready to compete in the final stretch.",
+    "title": "9  Strategy Tips",
+    "section": "9.5 Consider Player Interactions",
+    "text": "9.5 Consider Player Interactions\n\nTrade Strategically: Exchange expertise and resources with competitors when beneficial.\nBlock Opponents: Delay others by securing patents, outbidding funding, or leveraging event outcomes.\nNegotiate Alliances: Temporary alliances can help overcome shared obstacles, but be ready to compete in the final stretch.",
     "crumbs": [
-      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Strategy Tips</span>"
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Strategy Tips</span>"
     ]
   },
   {
     "objectID": "strategy_tips.html#stay-flexible",
     "href": "strategy_tips.html#stay-flexible",
-    "title": "8  Strategy Tips",
-    "section": "8.6 Stay Flexible",
-    "text": "8.6 Stay Flexible\n\nMonitor Competitor Progress: Adjust your strategy based on what other players are doing.\nAdapt to Changing Conditions: Regulatory updates and market shifts can affect your approach—stay nimble.\nDon’t Hoard Resources: Spend wisely, but avoid over-saving—unused resources don’t win games!",
+    "title": "9  Strategy Tips",
+    "section": "9.6 Stay Flexible",
+    "text": "9.6 Stay Flexible\n\nMonitor Competitor Progress: Adjust your strategy based on what other players are doing.\nAdapt to Changing Conditions: Regulatory updates and market shifts can affect your approach—stay nimble.\nDon’t Hoard Resources: Spend wisely, but avoid over-saving—unused resources don’t win games!",
     "crumbs": [
-      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Strategy Tips</span>"
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Strategy Tips</span>"
     ]
   },
   {
     "objectID": "design_notes.html",
     "href": "design_notes.html",
-    "title": "9  Design Notes",
+    "title": "10  Design Notes",
     "section": "",
-    "text": "9.1 Core Design Philosophy\nThis section outlines the key design principles behind Critical Path: The Systems Engineer’s Quest, integrating best practices from Your Turn!: The Guide to Great Tabletop Game Design by Scott Rogers.\nThe game is built upon three fundamental design principles:",
+    "text": "10.1 Core Design Philosophy\nThis section outlines the key design principles behind Critical Path: The Systems Engineer’s Quest, integrating best practices from Your Turn!: The Guide to Great Tabletop Game Design by Scott Rogers.\nThe game is built upon three fundamental design principles:",
     "crumbs": [
-      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Design Notes</span>"
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Design Notes</span>"
     ]
   },
   {
     "objectID": "design_notes.html#core-design-philosophy",
     "href": "design_notes.html#core-design-philosophy",
-    "title": "9  Design Notes",
+    "title": "10  Design Notes",
     "section": "",
     "text": "Engagement Through Realism – The game accurately reflects the challenges of medical device development.\nDecision-Driven Gameplay – Players must make strategic choices at every stage.\nDynamic Interaction – The combination of competitive and cooperative elements fosters an engaging experience.",
     "crumbs": [
-      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Design Notes</span>"
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Design Notes</span>"
     ]
   },
   {
     "objectID": "design_notes.html#applying-your-turn-principles",
     "href": "design_notes.html#applying-your-turn-principles",
-    "title": "9  Design Notes",
-    "section": "9.2 Applying Your Turn! Principles",
-    "text": "9.2 Applying Your Turn! Principles\n\n9.2.1 Player Agency & Meaningful Decisions\n\nPlayers are not just rolling dice but making crucial trade-offs (e.g., speed vs. quality in prototyping).\nChoices affect future outcomes—bad risk management early on can lead to major setbacks later.\n\n\n\n9.2.2 Risk vs. Reward Mechanics\n\nHigh-risk strategies (e.g., pushing a product to market early) can yield fast wins but also potential failures.\nPlayers must balance resources wisely, mirroring real-world engineering constraints.\n\n\n\n9.2.3 Thematic Integration\n\nThe game board is structured as a development timeline, reinforcing the process-based nature of medical device engineering.\nTask Cards and Event Cards are modeled after real-world scenarios, ensuring authenticity.\n\n\n\n9.2.4 Player Interaction & Competition\n\nPlayers can trade, form temporary alliances, or sabotage competitors (e.g., patent disputes, regulatory hurdles).\nLimited resources encourage strategic conflict—who secures funding first?\n\n\n\n9.2.5 Accessible but Deep Mechanics\n\nSimple dice rolls determine movement and task outcomes.\nAdvanced players can develop strategic depth through resource planning and negotiation.",
+    "title": "10  Design Notes",
+    "section": "10.2 Applying Your Turn! Principles",
+    "text": "10.2 Applying Your Turn! Principles\n\n10.2.1 Player Agency & Meaningful Decisions\n\nPlayers are not just rolling dice but making crucial trade-offs (e.g., speed vs. quality in prototyping).\nChoices affect future outcomes—bad risk management early on can lead to major setbacks later.\n\n\n\n10.2.2 Risk vs. Reward Mechanics\n\nHigh-risk strategies (e.g., pushing a product to market early) can yield fast wins but also potential failures.\nPlayers must balance resources wisely, mirroring real-world engineering constraints.\n\n\n\n10.2.3 Thematic Integration\n\nThe game board is structured as a development timeline, reinforcing the process-based nature of medical device engineering.\nTask Cards and Event Cards are modeled after real-world scenarios, ensuring authenticity.\n\n\n\n10.2.4 Player Interaction & Competition\n\nPlayers can trade, form temporary alliances, or sabotage competitors (e.g., patent disputes, regulatory hurdles).\nLimited resources encourage strategic conflict—who secures funding first?\n\n\n\n10.2.5 Accessible but Deep Mechanics\n\nSimple dice rolls determine movement and task outcomes.\nAdvanced players can develop strategic depth through resource planning and negotiation.",
     "crumbs": [
-      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Design Notes</span>"
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Design Notes</span>"
     ]
   },
   {
     "objectID": "design_notes.html#playtesting-insights-iterations",
     "href": "design_notes.html#playtesting-insights-iterations",
-    "title": "9  Design Notes",
-    "section": "9.3 Playtesting Insights & Iterations",
-    "text": "9.3 Playtesting Insights & Iterations\n\nFirst Iteration: Too much complexity—simplified task resolution mechanics.\nSecond Iteration: Players enjoyed competition, so we added more interaction points (e.g., blocking regulatory approval).\nThird Iteration: Adjusted balance for resource tokens to prevent runaway leaders.",
+    "title": "10  Design Notes",
+    "section": "10.3 Playtesting Insights & Iterations",
+    "text": "10.3 Playtesting Insights & Iterations\n\nFirst Iteration: Too much complexity—simplified task resolution mechanics.\nSecond Iteration: Players enjoyed competition, so we added more interaction points (e.g., blocking regulatory approval).\nThird Iteration: Adjusted balance for resource tokens to prevent runaway leaders.",
     "crumbs": [
-      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Design Notes</span>"
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Design Notes</span>"
     ]
   },
   {
     "objectID": "design_notes.html#next-steps",
     "href": "design_notes.html#next-steps",
-    "title": "9  Design Notes",
-    "section": "9.4 Next Steps",
-    "text": "9.4 Next Steps\n\nFinalize graphic design and board layout.\nExpand playtesting to refine balance.\nDevelop digital companion tools (e.g., online score tracker, virtual task cards).",
+    "title": "10  Design Notes",
+    "section": "10.4 Next Steps",
+    "text": "10.4 Next Steps\n\nFinalize graphic design and board layout.\nExpand playtesting to refine balance.\nDevelop digital companion tools (e.g., online score tracker, virtual task cards).",
     "crumbs": [
-      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Design Notes</span>"
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Design Notes</span>"
     ]
   },
   {
     "objectID": "resource_management.html",
     "href": "resource_management.html",
-    "title": "10  Resource Management Rules",
+    "title": "11  Resource Management Rules",
     "section": "",
-    "text": "10.1 How Players Gain Tokens\nTo ensure a balanced gameplay experience, Critical Path: The Systems Engineer’s Quest limits how players acquire, use, and trade resources. This section outlines the rules governing Innovation Tokens, Funding Tokens, Morale, and Time Tokens.",
+    "text": "11.1 How Players Gain Tokens\nTo ensure a balanced gameplay experience, Critical Path: The Systems Engineer’s Quest limits how players acquire, use, and trade resources. This section outlines the rules governing Innovation Tokens, Funding Tokens, Morale, and Time Tokens.",
     "crumbs": [
-      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Resource Management Rules</span>"
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Resource Management Rules</span>"
     ]
   },
   {
     "objectID": "resource_management.html#how-players-gain-tokens",
     "href": "resource_management.html#how-players-gain-tokens",
-    "title": "10  Resource Management Rules",
+    "title": "11  Resource Management Rules",
     "section": "",
     "text": "Method\nToken Type\nLimitations\n\n\n\n\nCompleting Key Tasks\nInnovation Tokens, Morale\nPlayers can earn a maximum of 2 tokens per phase.\n\n\nCertain Event Cards\nFunding Tokens, Morale\nCapped at 1 token per event effect to prevent overflow.\n\n\nSuccessful Phase Transitions\nInnovation Tokens, Funding Tokens\nPlayers receive 1 predefined token per major phase transition.\n\n\nTrading with Other Players\nAny Resource Token\nPlayers may trade, but each exchange must be 2:1 (e.g., 2 Innovation Tokens for 1 Funding Token).",
     "crumbs": [
-      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Resource Management Rules</span>"
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Resource Management Rules</span>"
     ]
   },
   {
     "objectID": "resource_management.html#spending-tokens",
     "href": "resource_management.html#spending-tokens",
-    "title": "10  Resource Management Rules",
-    "section": "10.2 Spending Tokens",
-    "text": "10.2 Spending Tokens\n\nInnovation Tokens – Used to re-roll task failures or unlock special shortcuts (e.g., bypassing verification delays).\nFunding Tokens – Required for high-cost actions (e.g., regulatory submissions, phase transitions).\nMorale – Boosts efficiency; if morale drops to 0, the player loses a turn until morale is restored.\nTime Tokens – Used to reduce delays or extend deadlines in project development.",
+    "title": "11  Resource Management Rules",
+    "section": "11.2 Spending Tokens",
+    "text": "11.2 Spending Tokens\n\nInnovation Tokens – Used to re-roll task failures or unlock special shortcuts (e.g., bypassing verification delays).\nFunding Tokens – Required for high-cost actions (e.g., regulatory submissions, phase transitions).\nMorale – Boosts efficiency; if morale drops to 0, the player loses a turn until morale is restored.\nTime Tokens – Used to reduce delays or extend deadlines in project development.",
     "crumbs": [
-      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Resource Management Rules</span>"
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Resource Management Rules</span>"
     ]
   },
   {
     "objectID": "resource_management.html#limits-on-token-accumulation",
     "href": "resource_management.html#limits-on-token-accumulation",
-    "title": "10  Resource Management Rules",
-    "section": "10.3 Limits on Token Accumulation",
-    "text": "10.3 Limits on Token Accumulation\n\nPlayers may hold a maximum of 3 of any token type at a time.\nExcess tokens must be spent or exchanged before acquiring new ones.\nSome high-value actions require specific token types, ensuring steady use of resources.",
+    "title": "11  Resource Management Rules",
+    "section": "11.3 Limits on Token Accumulation",
+    "text": "11.3 Limits on Token Accumulation\n\nPlayers may hold a maximum of 3 of any token type at a time.\nExcess tokens must be spent or exchanged before acquiring new ones.\nSome high-value actions require specific token types, ensuring steady use of resources.",
     "crumbs": [
-      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Resource Management Rules</span>"
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Resource Management Rules</span>"
     ]
   },
   {
     "objectID": "resource_management.html#phase-based-token-refresh",
     "href": "resource_management.html#phase-based-token-refresh",
-    "title": "10  Resource Management Rules",
-    "section": "10.4 Phase-Based Token Refresh",
-    "text": "10.4 Phase-Based Token Refresh\n\nAt the start of each new phase, all players receive 1 free token (type depends on the phase):\n\nSystem Architecture Phase → 1 Innovation Token\nPrototyping Phase → 1 Innovation Token\nVerification & Validation Phase → 1 Morale Token\nRegulatory Approval Phase → 1 Funding Token",
+    "title": "11  Resource Management Rules",
+    "section": "11.4 Phase-Based Token Refresh",
+    "text": "11.4 Phase-Based Token Refresh\n\nAt the start of each new phase, all players receive 1 free token (type depends on the phase):\n\nSystem Architecture Phase → 1 Innovation Token\nPrototyping Phase → 1 Innovation Token\nVerification & Validation Phase → 1 Morale Token\nRegulatory Approval Phase → 1 Funding Token",
     "crumbs": [
-      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Resource Management Rules</span>"
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Resource Management Rules</span>"
     ]
   },
   {
     "objectID": "resource_management.html#trading-and-negotiation-rules",
     "href": "resource_management.html#trading-and-negotiation-rules",
-    "title": "10  Resource Management Rules",
-    "section": "10.5 Trading and Negotiation Rules",
-    "text": "10.5 Trading and Negotiation Rules\n\nPlayers may exchange tokens during their turn.\nTrades must follow a minimum 2:1 ratio (e.g., trading 2 Innovation Tokens to gain 1 Funding Token).\nPlayers cannot gift tokens—every trade must be a fair exchange.",
+    "title": "11  Resource Management Rules",
+    "section": "11.5 Trading and Negotiation Rules",
+    "text": "11.5 Trading and Negotiation Rules\n\nPlayers may exchange tokens during their turn.\nTrades must follow a minimum 2:1 ratio (e.g., trading 2 Innovation Tokens to gain 1 Funding Token).\nPlayers cannot gift tokens—every trade must be a fair exchange.",
     "crumbs": [
-      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Resource Management Rules</span>"
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Resource Management Rules</span>"
     ]
   },
   {

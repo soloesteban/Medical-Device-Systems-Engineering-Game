@@ -17,7 +17,7 @@ book:
     - game_overview.qmd
     - game_setup.qmd
     - gameplay.qmd
-    #- game_mechanics.qmd
+    - game_mechanics.qmd
     - event_cards.qmd
     - task_cards.qmd
     - board_layout.qmd

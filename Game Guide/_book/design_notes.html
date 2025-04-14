@@ -9,7 +9,7 @@
 <meta name="author" content="Esteban Solorzano">
 <meta name="dcterms.date" content="2025-03-01">
 
-<title>9&nbsp; Design Notes – Critical Path: The Systems Engineer's Quest</title>
+<title>10&nbsp; Design Notes – Critical Path: The Systems Engineer's Quest</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -83,7 +83,7 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./design_notes.html"><span class="chapter-number">9</span>&nbsp; <span class="chapter-title">Design Notes</span></a></li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./design_notes.html"><span class="chapter-number">10</span>&nbsp; <span class="chapter-title">Design Notes</span></a></li></ol></nav>
         <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
       <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
@@ -134,44 +134,50 @@ ul.task-list li input[type="checkbox"] {
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
+  <a href="./game_mechanics.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">4</span>&nbsp; <span class="chapter-title">Game Mechanics</span></span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
   <a href="./event_cards.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">4</span>&nbsp; <span class="chapter-title">Event Cards</span></span></a>
+ <span class="menu-text"><span class="chapter-number">5</span>&nbsp; <span class="chapter-title">Event Cards</span></span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./task_cards.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">5</span>&nbsp; <span class="chapter-title">Task Cards</span></span></a>
+ <span class="menu-text"><span class="chapter-number">6</span>&nbsp; <span class="chapter-title">Task Cards</span></span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./board_layout.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">6</span>&nbsp; <span class="chapter-title">Board Layout</span></span></a>
+ <span class="menu-text"><span class="chapter-number">7</span>&nbsp; <span class="chapter-title">Board Layout</span></span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./terminology.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">7</span>&nbsp; <span class="chapter-title">Terminology</span></span></a>
+ <span class="menu-text"><span class="chapter-number">8</span>&nbsp; <span class="chapter-title">Terminology</span></span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./strategy_tips.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">8</span>&nbsp; <span class="chapter-title">Strategy Tips</span></span></a>
+ <span class="menu-text"><span class="chapter-number">9</span>&nbsp; <span class="chapter-title">Strategy Tips</span></span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./design_notes.html" class="sidebar-item-text sidebar-link active">
- <span class="menu-text"><span class="chapter-number">9</span>&nbsp; <span class="chapter-title">Design Notes</span></span></a>
+ <span class="menu-text"><span class="chapter-number">10</span>&nbsp; <span class="chapter-title">Design Notes</span></span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./resource_management.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">10</span>&nbsp; <span class="chapter-title">Resource Management Rules</span></span></a>
+ <span class="menu-text"><span class="chapter-number">11</span>&nbsp; <span class="chapter-title">Resource Management Rules</span></span></a>
   </div>
 </li>
         <li class="sidebar-item">
@@ -219,17 +225,17 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">Table of contents</h2>
    
   <ul>
-  <li><a href="#core-design-philosophy" id="toc-core-design-philosophy" class="nav-link active" data-scroll-target="#core-design-philosophy"><span class="header-section-number">9.1</span> Core Design Philosophy</a></li>
-  <li><a href="#applying-your-turn-principles" id="toc-applying-your-turn-principles" class="nav-link" data-scroll-target="#applying-your-turn-principles"><span class="header-section-number">9.2</span> Applying <em>Your Turn!</em> Principles</a>
+  <li><a href="#core-design-philosophy" id="toc-core-design-philosophy" class="nav-link active" data-scroll-target="#core-design-philosophy"><span class="header-section-number">10.1</span> Core Design Philosophy</a></li>
+  <li><a href="#applying-your-turn-principles" id="toc-applying-your-turn-principles" class="nav-link" data-scroll-target="#applying-your-turn-principles"><span class="header-section-number">10.2</span> Applying <em>Your Turn!</em> Principles</a>
   <ul class="collapse">
-  <li><a href="#player-agency-meaningful-decisions" id="toc-player-agency-meaningful-decisions" class="nav-link" data-scroll-target="#player-agency-meaningful-decisions"><span class="header-section-number">9.2.1</span> Player Agency &amp; Meaningful Decisions</a></li>
-  <li><a href="#risk-vs.-reward-mechanics" id="toc-risk-vs.-reward-mechanics" class="nav-link" data-scroll-target="#risk-vs.-reward-mechanics"><span class="header-section-number">9.2.2</span> Risk vs.&nbsp;Reward Mechanics</a></li>
-  <li><a href="#thematic-integration" id="toc-thematic-integration" class="nav-link" data-scroll-target="#thematic-integration"><span class="header-section-number">9.2.3</span> Thematic Integration</a></li>
-  <li><a href="#player-interaction-competition" id="toc-player-interaction-competition" class="nav-link" data-scroll-target="#player-interaction-competition"><span class="header-section-number">9.2.4</span> Player Interaction &amp; Competition</a></li>
-  <li><a href="#accessible-but-deep-mechanics" id="toc-accessible-but-deep-mechanics" class="nav-link" data-scroll-target="#accessible-but-deep-mechanics"><span class="header-section-number">9.2.5</span> Accessible but Deep Mechanics</a></li>
+  <li><a href="#player-agency-meaningful-decisions" id="toc-player-agency-meaningful-decisions" class="nav-link" data-scroll-target="#player-agency-meaningful-decisions"><span class="header-section-number">10.2.1</span> Player Agency &amp; Meaningful Decisions</a></li>
+  <li><a href="#risk-vs.-reward-mechanics" id="toc-risk-vs.-reward-mechanics" class="nav-link" data-scroll-target="#risk-vs.-reward-mechanics"><span class="header-section-number">10.2.2</span> Risk vs.&nbsp;Reward Mechanics</a></li>
+  <li><a href="#thematic-integration" id="toc-thematic-integration" class="nav-link" data-scroll-target="#thematic-integration"><span class="header-section-number">10.2.3</span> Thematic Integration</a></li>
+  <li><a href="#player-interaction-competition" id="toc-player-interaction-competition" class="nav-link" data-scroll-target="#player-interaction-competition"><span class="header-section-number">10.2.4</span> Player Interaction &amp; Competition</a></li>
+  <li><a href="#accessible-but-deep-mechanics" id="toc-accessible-but-deep-mechanics" class="nav-link" data-scroll-target="#accessible-but-deep-mechanics"><span class="header-section-number">10.2.5</span> Accessible but Deep Mechanics</a></li>
   </ul></li>
-  <li><a href="#playtesting-insights-iterations" id="toc-playtesting-insights-iterations" class="nav-link" data-scroll-target="#playtesting-insights-iterations"><span class="header-section-number">9.3</span> Playtesting Insights &amp; Iterations</a></li>
-  <li><a href="#next-steps" id="toc-next-steps" class="nav-link" data-scroll-target="#next-steps"><span class="header-section-number">9.4</span> Next Steps</a></li>
+  <li><a href="#playtesting-insights-iterations" id="toc-playtesting-insights-iterations" class="nav-link" data-scroll-target="#playtesting-insights-iterations"><span class="header-section-number">10.3</span> Playtesting Insights &amp; Iterations</a></li>
+  <li><a href="#next-steps" id="toc-next-steps" class="nav-link" data-scroll-target="#next-steps"><span class="header-section-number">10.4</span> Next Steps</a></li>
   </ul>
 </nav>
     </div>
@@ -238,7 +244,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title"><span class="chapter-number">9</span>&nbsp; <span class="chapter-title">Design Notes</span></h1>
+<h1 class="title"><span class="chapter-number">10</span>&nbsp; <span class="chapter-title">Design Notes</span></h1>
 </div>
 
 
@@ -268,8 +274,8 @@ ul.task-list li input[type="checkbox"] {
 
 
 <p>This section outlines the key design principles behind <strong>Critical Path: The Systems Engineer’s Quest</strong>, integrating best practices from <em>Your Turn!: The Guide to Great Tabletop Game Design</em> by Scott Rogers.</p>
-<section id="core-design-philosophy" class="level2" data-number="9.1">
-<h2 data-number="9.1" class="anchored" data-anchor-id="core-design-philosophy"><span class="header-section-number">9.1</span> Core Design Philosophy</h2>
+<section id="core-design-philosophy" class="level2" data-number="10.1">
+<h2 data-number="10.1" class="anchored" data-anchor-id="core-design-philosophy"><span class="header-section-number">10.1</span> Core Design Philosophy</h2>
 <p>The game is built upon three fundamental design principles:</p>
 <ol type="1">
 <li><strong>Engagement Through Realism</strong> – The game accurately reflects the challenges of medical device development.</li>
@@ -277,54 +283,54 @@ ul.task-list li input[type="checkbox"] {
 <li><strong>Dynamic Interaction</strong> – The combination of competitive and cooperative elements fosters an engaging experience.</li>
 </ol>
 </section>
-<section id="applying-your-turn-principles" class="level2" data-number="9.2">
-<h2 data-number="9.2" class="anchored" data-anchor-id="applying-your-turn-principles"><span class="header-section-number">9.2</span> Applying <em>Your Turn!</em> Principles</h2>
-<section id="player-agency-meaningful-decisions" class="level3" data-number="9.2.1">
-<h3 data-number="9.2.1" class="anchored" data-anchor-id="player-agency-meaningful-decisions"><span class="header-section-number">9.2.1</span> Player Agency &amp; Meaningful Decisions</h3>
+<section id="applying-your-turn-principles" class="level2" data-number="10.2">
+<h2 data-number="10.2" class="anchored" data-anchor-id="applying-your-turn-principles"><span class="header-section-number">10.2</span> Applying <em>Your Turn!</em> Principles</h2>
+<section id="player-agency-meaningful-decisions" class="level3" data-number="10.2.1">
+<h3 data-number="10.2.1" class="anchored" data-anchor-id="player-agency-meaningful-decisions"><span class="header-section-number">10.2.1</span> Player Agency &amp; Meaningful Decisions</h3>
 <ul>
 <li>Players are not just rolling dice but making crucial trade-offs (e.g., speed vs.&nbsp;quality in prototyping).</li>
 <li>Choices affect future outcomes—bad risk management early on can lead to major setbacks later.</li>
 </ul>
 </section>
-<section id="risk-vs.-reward-mechanics" class="level3" data-number="9.2.2">
-<h3 data-number="9.2.2" class="anchored" data-anchor-id="risk-vs.-reward-mechanics"><span class="header-section-number">9.2.2</span> Risk vs.&nbsp;Reward Mechanics</h3>
+<section id="risk-vs.-reward-mechanics" class="level3" data-number="10.2.2">
+<h3 data-number="10.2.2" class="anchored" data-anchor-id="risk-vs.-reward-mechanics"><span class="header-section-number">10.2.2</span> Risk vs.&nbsp;Reward Mechanics</h3>
 <ul>
 <li>High-risk strategies (e.g., pushing a product to market early) can yield fast wins but also potential failures.</li>
 <li>Players must balance resources wisely, mirroring real-world engineering constraints.</li>
 </ul>
 </section>
-<section id="thematic-integration" class="level3" data-number="9.2.3">
-<h3 data-number="9.2.3" class="anchored" data-anchor-id="thematic-integration"><span class="header-section-number">9.2.3</span> Thematic Integration</h3>
+<section id="thematic-integration" class="level3" data-number="10.2.3">
+<h3 data-number="10.2.3" class="anchored" data-anchor-id="thematic-integration"><span class="header-section-number">10.2.3</span> Thematic Integration</h3>
 <ul>
 <li>The game board is structured as a development timeline, reinforcing the process-based nature of medical device engineering.</li>
 <li>Task Cards and Event Cards are modeled after real-world scenarios, ensuring authenticity.</li>
 </ul>
 </section>
-<section id="player-interaction-competition" class="level3" data-number="9.2.4">
-<h3 data-number="9.2.4" class="anchored" data-anchor-id="player-interaction-competition"><span class="header-section-number">9.2.4</span> Player Interaction &amp; Competition</h3>
+<section id="player-interaction-competition" class="level3" data-number="10.2.4">
+<h3 data-number="10.2.4" class="anchored" data-anchor-id="player-interaction-competition"><span class="header-section-number">10.2.4</span> Player Interaction &amp; Competition</h3>
 <ul>
 <li>Players can trade, form temporary alliances, or sabotage competitors (e.g., patent disputes, regulatory hurdles).</li>
 <li>Limited resources encourage strategic conflict—who secures funding first?</li>
 </ul>
 </section>
-<section id="accessible-but-deep-mechanics" class="level3" data-number="9.2.5">
-<h3 data-number="9.2.5" class="anchored" data-anchor-id="accessible-but-deep-mechanics"><span class="header-section-number">9.2.5</span> Accessible but Deep Mechanics</h3>
+<section id="accessible-but-deep-mechanics" class="level3" data-number="10.2.5">
+<h3 data-number="10.2.5" class="anchored" data-anchor-id="accessible-but-deep-mechanics"><span class="header-section-number">10.2.5</span> Accessible but Deep Mechanics</h3>
 <ul>
 <li>Simple dice rolls determine movement and task outcomes.</li>
 <li>Advanced players can develop strategic depth through resource planning and negotiation.</li>
 </ul>
 </section>
 </section>
-<section id="playtesting-insights-iterations" class="level2" data-number="9.3">
-<h2 data-number="9.3" class="anchored" data-anchor-id="playtesting-insights-iterations"><span class="header-section-number">9.3</span> Playtesting Insights &amp; Iterations</h2>
+<section id="playtesting-insights-iterations" class="level2" data-number="10.3">
+<h2 data-number="10.3" class="anchored" data-anchor-id="playtesting-insights-iterations"><span class="header-section-number">10.3</span> Playtesting Insights &amp; Iterations</h2>
 <ul>
 <li><strong>First Iteration:</strong> Too much complexity—simplified task resolution mechanics.</li>
 <li><strong>Second Iteration:</strong> Players enjoyed competition, so we added more interaction points (e.g., blocking regulatory approval).</li>
 <li><strong>Third Iteration:</strong> Adjusted balance for resource tokens to prevent runaway leaders.</li>
 </ul>
 </section>
-<section id="next-steps" class="level2" data-number="9.4">
-<h2 data-number="9.4" class="anchored" data-anchor-id="next-steps"><span class="header-section-number">9.4</span> Next Steps</h2>
+<section id="next-steps" class="level2" data-number="10.4">
+<h2 data-number="10.4" class="anchored" data-anchor-id="next-steps"><span class="header-section-number">10.4</span> Next Steps</h2>
 <ul>
 <li>Finalize graphic design and board layout.</li>
 <li>Expand playtesting to refine balance.</li>
@@ -755,12 +761,12 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 <nav class="page-navigation">
   <div class="nav-page nav-page-previous">
       <a href="./strategy_tips.html" class="pagination-link" aria-label="Strategy Tips">
-        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-number">8</span>&nbsp; <span class="chapter-title">Strategy Tips</span></span>
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-number">9</span>&nbsp; <span class="chapter-title">Strategy Tips</span></span>
       </a>          
   </div>
   <div class="nav-page nav-page-next">
       <a href="./resource_management.html" class="pagination-link" aria-label="Resource Management Rules">
-        <span class="nav-page-text"><span class="chapter-number">10</span>&nbsp; <span class="chapter-title">Resource Management Rules</span></span> <i class="bi bi-arrow-right-short"></i>
+        <span class="nav-page-text"><span class="chapter-number">11</span>&nbsp; <span class="chapter-title">Resource Management Rules</span></span> <i class="bi bi-arrow-right-short"></i>
       </a>
   </div>
 </nav>
